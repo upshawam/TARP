@@ -1,0 +1,251 @@
+name: TARP Data Monitor
+
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run data monitor
+        id: monitor
+        continue-on-error: true
+        env:
+          TARP_SOURCE_URL: https://www.tn.gov/twra/fishing/tennessee-angler-recognition-program/_jcr_content/contentFullWidth/tn_complex_datatable.exceldriven.json
+        run: python scripts/data_monitor/monitor.py
+
+      - name: Read run result
+        id: run_result
+        if: always()
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          result_path = Path("data-monitor/run-result.json")
+          if not result_path.exists():
+              payload = {
+                  "status": "failure",
+                  "changed": False,
+                  "error": "run-result.json missing",
+                  "current_count": 0,
+                  "previous_count": 0,
+                  "added_count": 0,
+                  "removed_count": 0,
+                  "changed_count": 0,
+              }
+          else:
+              payload = json.loads(result_path.read_text(encoding="utf-8"))
+
+          output_path = Path(__import__("os").environ["GITHUB_OUTPUT"])
+          with output_path.open("a", encoding="utf-8") as fh:
+              fh.write(f"status={payload.get('status', 'failure')}\n")
+              fh.write(f"changed={str(payload.get('changed', False)).lower()}\n")
+              fh.write(f"current_count={payload.get('current_count', 0)}\n")
+              fh.write(f"previous_count={payload.get('previous_count', 0)}\n")
+              fh.write(f"added_count={payload.get('added_count', 0)}\n")
+              fh.write(f"removed_count={payload.get('removed_count', 0)}\n")
+              fh.write(f"changed_count={payload.get('changed_count', 0)}\n")
+              fh.write("error<<EOF\n")
+              fh.write(str(payload.get("error") or "") + "\n")
+              fh.write("EOF\n")
+          PY
+
+      - name: Post rolling change issue comment
+        if: steps.run_result.outputs.status == 'success' && steps.run_result.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const title = 'TARP Data Monitor: Change Log';
+            const labels = ['data-monitor', 'data-change'];
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            async function ensureLabel(name, color, description) {
+              try {
+                await github.rest.issues.getLabel({ owner, repo, name });
+              } catch (error) {
+                if (error.status === 404) {
+                  await github.rest.issues.createLabel({ owner, repo, name, color, description });
+                } else {
+                  throw error;
+                }
+              }
+            }
+
+            await ensureLabel('data-monitor', '0e8a16', 'Automated data monitor activity');
+            await ensureLabel('data-change', '1d76db', 'Detected data changes');
+
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner,
+              repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            let issue = issues.find((i) => i.title === title);
+            if (!issue) {
+              issue = (await github.rest.issues.create({
+                owner,
+                repo,
+                title,
+                body: 'Rolling issue for TARP dataset change events. New comments are posted for each detected update.',
+                labels
+              })).data;
+            }
+
+            const diffPath = 'data-monitor/latest-diff.md';
+            let diffText = fs.existsSync(diffPath)
+              ? fs.readFileSync(diffPath, 'utf8')
+              : 'No diff file was produced.';
+
+            const maxLen = 63000;
+            if (diffText.length > maxLen) {
+              diffText = diffText.slice(0, maxLen) + '\n\n... truncated due to comment size limit.';
+            }
+
+            await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: issue.number,
+              body: diffText
+            });
+
+      - name: Open or update failure issue
+        if: steps.run_result.outputs.status == 'failure'
+        uses: actions/github-script@v7
+        env:
+          RUN_ERROR: ${{ steps.run_result.outputs.error }}
+        with:
+          script: |
+            const title = 'TARP Data Monitor: Failure Alert';
+            const labels = ['data-monitor', 'data-monitor-failure'];
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const errorText = process.env.RUN_ERROR || 'Unknown failure';
+
+            async function ensureLabel(name, color, description) {
+              try {
+                await github.rest.issues.getLabel({ owner, repo, name });
+              } catch (error) {
+                if (error.status === 404) {
+                  await github.rest.issues.createLabel({ owner, repo, name, color, description });
+                } else {
+                  throw error;
+                }
+              }
+            }
+
+            await ensureLabel('data-monitor', '0e8a16', 'Automated data monitor activity');
+            await ensureLabel('data-monitor-failure', 'b60205', 'Data monitor failures');
+
+            const body = [
+              'The latest monitor run failed.',
+              '',
+              `- Workflow run: https://github.com/${owner}/${repo}/actions/runs/${context.runId}`,
+              `- Time (UTC): ${new Date().toISOString()}`,
+              `- Error: ${errorText}`,
+              '',
+              'This issue is reused and updated on subsequent failures.'
+            ].join('\n');
+
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner,
+              repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            const existing = issues.find((i) => i.title === title);
+            if (!existing) {
+              await github.rest.issues.create({
+                owner,
+                repo,
+                title,
+                body,
+                labels
+              });
+            } else {
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: existing.number,
+                body
+              });
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: existing.number,
+                body
+              });
+            }
+
+      - name: Close failure issue after successful run
+        if: steps.run_result.outputs.status == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = 'TARP Data Monitor: Failure Alert';
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner,
+              repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            const existing = issues.find((i) => i.title === title);
+            if (existing) {
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number: existing.number,
+                body: 'Monitor recovered successfully on the latest run. Closing failure issue.'
+              });
+              await github.rest.issues.update({
+                owner,
+                repo,
+                issue_number: existing.number,
+                state: 'closed'
+              });
+            }
+
+      - name: Commit generated artifacts
+        if: steps.run_result.outputs.status == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data-monitor public/data-monitor/status.html
+
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore(data-monitor): update monitor artifacts"
+          git push
+
+      - name: Fail workflow if monitor failed
+        if: steps.run_result.outputs.status == 'failure'
+        run: |
+          echo "Monitor run failed; see failure issue for details."
+          exit 1

@@ -76,6 +76,14 @@ export default function App() {
               {item.label}
             </button>
           ))}
+          <a
+            className="nav-link"
+            href={`${import.meta.env.BASE_URL}data-monitor/status.html`}
+            target="_blank"
+            rel="noreferrer"
+          >
+            Data Monitor Status
+          </a>
         </nav>
       </aside>
 

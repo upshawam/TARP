@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "checked_at": "2026-07-10T23:48:04+00:00",
+  "changed": false,
+  "source_url": "https://www.tn.gov/twra/fishing/tennessee-angler-recognition-program/_jcr_content/contentFullWidth/tn_complex_datatable.exceldriven.json",
+  "previous_count": 9826,
+  "current_count": 9826,
+  "added_count": 0,
+  "removed_count": 0,
+  "changed_count": 0,
+  "snapshot_path": null,
+  "diff_report_path": "data-monitor/latest-diff.md",
+  "error": null
+}
