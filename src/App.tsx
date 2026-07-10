@@ -11,8 +11,9 @@ import TrophyPlanner from "./pages/TrophyPlanner";
 import EarlyTargets from "./pages/EarlyTargets";
 import AnglerExplorer from "./pages/AnglerExplorer";
 import ImportData from "./pages/ImportData";
+import FishGallery from "./pages/FishGallery";
 
-type Page = "dashboard" | "species" | "waterbody" | "planner" | "earlyTargets" | "anglers" | "import";
+type Page = "dashboard" | "species" | "waterbody" | "planner" | "earlyTargets" | "anglers" | "fishGallery" | "import";
 
 const navItems: { key: Page; label: string }[] = [
   { key: "dashboard", label: "Dashboard" },
@@ -21,6 +22,7 @@ const navItems: { key: Page; label: string }[] = [
   { key: "planner", label: "Trophy Planner" },
   { key: "earlyTargets", label: "Early Targets" },
   { key: "anglers", label: "Angler Explorer" },
+  { key: "fishGallery", label: "Fish Gallery" },
   { key: "import", label: "Import" }
 ];
 
@@ -77,7 +79,7 @@ export default function App() {
         </nav>
       </aside>
 
-      <main className="main-content">
+      <main className={`main-content ${page === "fishGallery" ? "main-content-wide" : ""}`}>
         {isLoading && <div className="notice">Loading `public/data/tarp.csv`...</div>}
         {loadError && (
           <div className="warning">
@@ -92,6 +94,7 @@ export default function App() {
         {page === "planner" && <TrophyPlanner records={records} species={species} />}
         {page === "earlyTargets" && <EarlyTargets records={records} />}
         {page === "anglers" && <AnglerExplorer records={records} anglers={anglers} waterbodies={waterbodies} />}
+        {page === "fishGallery" && <FishGallery records={records} />}
         {page === "import" && <ImportData onCsvLoaded={handleCsvText} />}
       </main>
     </div>

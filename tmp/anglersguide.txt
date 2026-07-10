@@ -1,0 +1,2495 @@
+Angler’s Guide To
+Tennessee Fish
+Including Aquatic Nuisance Species
+
+-- 1 of 80 --
+
+Equal opportunity to participate in and benefit from programs of the Tennessee Wildlife Resources
+Agency is available to all persons without regard to their race, color, national origin, sex, age, dis-
+ability, or military service. TWRA is also an equal opportunity/equal access employer. Questions
+should be directed to TWRA, Human Resources Office, P.O. Box 40747, Nashville, TN 37204, (615)
+781-6594 (TDD 781-6691), or to the U.S. Fish and Wildlife Service, Office for Human Resources,
+4401 N. Fairfax Dr., Arlington, VA 22203.
+Tennessee Wildlife Resources Agency Authorization No. 328898, 65,000 copies,
+February 2018. This public document was promulgated at a cost of $.38 per copy.
+Published by the
+Tennessee Wildlife Resources Agency
+Cover photograph
+Paul Shaw
+Graphics Designer/Layout
+Raleigh Holtam
+Edited by
+Mike Bramlett and David Roddy
+Thanks to the TWRA Fisheries personnel for their
+review and contributions to this publication.
+Special thanks to those that provided
+pictures for use in this publication.
+Partial funding of this publication was provided
+by a grant from the United States Fish & Wildlife Service
+through the Aquatic Nuisance Species Task Force.
+
+-- 2 of 80 --
+
+Contents
+Introduction ...............................................................................1
+About Fish ..................................................................................2
+Black Bass ...................................................................................4
+Crappie ........................................................................................8
+Sunfishes .................................................................................. 10
+Temperate (True) Bass .......................................................... 16
+Pike ............................................................................................ 19
+Perch ......................................................................................... 20
+Trout ......................................................................................... 23
+Catfish....................................................................................... 25
+Gar............................................................................................. 28
+Buffalo ...................................................................................... 30
+Redhorses................................................................................. 32
+Carpsuckers ............................................................................. 33
+Herring (Shad) ........................................................................ 34
+Sturgeon ................................................................................... 36
+Paddlefish ................................................................................. 38
+Bowfin....................................................................................... 39
+American Eel ........................................................................... 40
+Freshwater Drum ................................................................... 40
+Mooneye .................................................................................. 41
+Golden Shiner ......................................................................... 41
+Goldfish .................................................................................... 42
+Brook Silverside ...................................................................... 42
+Stoneroller ............................................................................... 43
+Chestnut Lamprey ................................................................. 43
+Atlantic Needlefish ................................................................ 44
+Striped Mullet ......................................................................... 44
+Tilapia ....................................................................................... 45
+Other Tennessee Fish ........................................................... 46
+Aquatic Nuisance Species..................................................... 48
+Fish As Pets ............................................................................. 68
+Aquatic Animals Prohibited In Tennessee........................ 71
+Live Bait Regulations ............................................................. 71
+Tennessee Angler Recognition Program ........................... 72
+Further Reading ..................................................................... 73
+TWRA Offices ........................................................................ 74
+
+-- 3 of 80 --
+
+
+
+-- 4 of 80 --
+
+Introduction
+Tennessee has one of the most diverse assemblages of fish in North America with
+at least 320 species. Of these, approximately 285 species are considered native to
+Tennessee. The non-native species found in Tennessee were either intentionally in-
+troduced for food, bait, sport fishing, vegetation control, or accidently introduced by
+an angler’s bait bucket release, boat and trailer, aquarium release, or movement from
+surrounding states.
+The waters of Tennessee offer opportunities for anglers of all ages, experience and
+interests. With 29 major reservoirs, 19,000 miles of warm and cold water streams,
+and thousands of smaller lakes and ponds, anglers in the Volunteer State have places
+to wet a line year-round.
+To help identify their catch, the Tennessee Wildlife Resources Agency (TWRA)
+offers this convenient identification guide covering as many as 100 species or subspe-
+cies, including aquatic nuisance species that are currently present in the state or may
+be found in the future. Each species is depicted in a photograph with most having a
+description of their preferred foods and habitat. It should be noted that listed state
+record fish weights are for sportfishing methods and are subject to change. If an an-
+gler catches a fish exceeding the weight listed, the angler should contact the TWRA
+regional office in the area the fish was caught. The most updated version of this guide,
+and the state record fish list is available at the TWRA’s website (tnwildlife.org).
+Although some of the fish species on the following pages are very familiar (bass,
+crappie and catfish), most anglers will not encounter the other species described. Only
+12 percent of the 320 species of fish found in Tennessee are considered game fish, while
+the remaining 88 percent are non-game fish. If help is needed in identifying fish you
+encounter, contact one of the TWRA offices listed on page 74.
+Throughout the guide, many of the species have “other name(s)” listed in addition to
+the common name. These are names which have been given to the species by anglers
+over time and are listed here only for historical information and to help bridge the
+communication gap between fisheries biologists and anglers.
+Before you head to the water to fish however, be sure to stop by the nearest TWRA
+regional office or a license agent to buy a fishing license. Your fees go toward fisheries
+management programs that help ensure your future recreational fishing opportuni-
+ties. Request a free copy of the current Tennessee Fishing Guide when you purchase
+your fishing license. You can also find the guide on the TWRA website.
+Remember: If you fish on private property, you must obtain permission from the
+owner. Whether that favorite fishing hole is on private or public land, be a respon-
+sible resource user. Please do not leave trash along our waterways, including fishing
+line. Do not dump unused bait in the water; instead, drain your bait bucket on land
+or dispose of bait in the trash. Bait from bait dealers can contain invasive species.
+Also report all littering violations and any suspected illegal dumping into Tennes-
+see’s waters. After all, water is one of our most important resources as both humans
+and fish depend on it for their survival. Following these simple rules will help ensure
+that we all may enjoy our natural resources for generations to come.
+1
+
+-- 5 of 80 --
+
+About Fish
+Lateral line: Nerve endings along a row of sensory pores on either side of a fish
+from the gills to tail act as “radar,” allowing the fish to detect the size, shape,
+direction and speed of objects.
+Touch: Fish can detect minute temperature differences and can discriminate be-
+tween hard and soft baits. Fish are more likely to hold a soft bait longer.
+Hearing: Water conducts sound better than air, and fish hear directly through the
+bones in their head, therefore noise on the bank, dock or even in a boat may
+spook fish.
+Taste: Most fish do not rely on taste, but catfish and bullheads have taste buds over
+their entire bodies and fins, including their barbels (whiskers), which help them
+locate food.
+Smell: Fish have nasal sacs (nares) to help detect odor. Night feeders, or fish that
+live in muddy water, have a highly refined sense of smell.
+Sight: Most fish lack eyelids and cannot adjust the diameter of the eye’s pupil.
+Therefore they tend to avoid brightly lit areas. They can detect colors but their
+perception of color is affected by water depth and clarity.
+Fish are cold-blooded, which means that their body temperatures are about the
+same as their surrounding environment. Because they don’t produce body heat, fish
+must find and remain in preferred water temperatures.
+A fish’s streamlined shape helps it move through the water. The water also helps
+“float” fish; many species can make themselves lighter or heavier in the water by in-
+creasing or decreasing the amount of gas in their swim bladder.
+A fish swims by alternately contracting muscles along each side, which causes its
+tail (caudal fin) to sweep and propel the fish forward. The pectoral and pelvic fins as-
+sist with forward and backward movement, provide stability and steering, and help
+the fish brake (stop).
+Fish markings usually serve as camouflage. Fish that are found near rocks or
+weeds often have blotches or bars on their sides. Many fish are dark on top and light
+underneath, making them more inconspicuous when viewed from above or below.
+Most fish have scales, which are embedded into the skin and are arranged in over-
+lapping rows. Scales may be thick and tough, as in sunfish, or extremely small, as in
+trout. Catfish, eels and paddlefish have a tough skin instead of scales. Growth marks
+on scales, spines, and otoliths can reveal the age of a fish, just as tree rings show the
+age of a tree.
+The life span of most of our gamefish is about 4-10 years, but some live much
+longer. Fish continue to grow in length and girth as they get older.
+Many fish swim in groups or schools. Solitary fish may concentrate when a feed-
+ing opportunity presents itself. Some fish wander constantly in search of food while
+others have narrowly defined home ranges and wait for food to come close enough
+to ambush.
+2
+
+-- 6 of 80 --
+
+nares
+(nostrils)
+mouth
+maxillary
+(upper jaw) 	pectoral fin
+pelvic fin
+anal fin
+vent
+eye
+operculum
+(gill cover)
+spiny dorsal fin 	soft dorsal fin
+caudal (tail) fin	
+lateral line
+nares
+(nostrils)
+barbels
+pectoral fin
+pelvic fin
+anal fin
+vent
+eye
+operculum
+(gill cover)
+dorsal fin
+adipose fin caudal (tail) fin	lateral line
+Fish often make regular daily movements between feeding and resting places,
+seasonal movements to summer and winter habitat and annual movements to tradi-
+tional spawning areas. Many species travel long distances to spawn. Spawning activ-
+ity concentrates some species of fish and makes them easier to find.
+3
+
+-- 7 of 80 --
+
+David Roddy
+Black Bass
+The term, black bass, refers to several species of bass in Tennessee including
+smallmouth, largemouth, spotted, redeye (Coosa) and the recently recognized Ala-
+bama bass. Although several species of black bass may live together in the same
+waters, they prefer somewhat different habitats. Smallmouth bass prefer the clearer,
+cooler portions of the reservoirs or the swift runs of streams, while largemouth bass
+prefer warmer, often more turbid parts of the reservoir with ample cover in the form
+of brush, stumps and similar obstructions. Spotted bass are usually more associated
+with the smallmouth bass and prefer rocky areas. The spotted bass and largemouth
+bass are very similar, but there is one good way to tell them apart. Look at the fish’s
+upper jaw (maxillary) when the mouth is closed. If the jaw extends behind the fish’s
+eye, it is a largemouth bass (see page 6). If the jaw does not extend behind the eye,
+you have one of the other black bass species. Interestingly, none of these black bass
+are actually true bass. They are really members of the sunfish family, along with blue-
+gill, crappie, and most other panfish species. Nevertheless, almost anytime anglers
+mention bass or bass fishing they are most likely talking about these species.
+Black bass hybrids can occur naturally or be produced in a hatchery. Hatcheries
+experimented with a cross of the largemouth and smallmouth bass in years past and
+this was the original “mean-mouth” bass. In the natural environment, largemouth
+and smallmouth bass occupy different habitats and have different spawning times,
+so natural hybrids of these two species rarely occur. However, the habitat use and
+spawning times of smallmouth bass and spotted bass can overlap, and hybrids of
+these two species, while still rare, do occur in Tennessee. While not the original
+“mean-mouth,” the smallmouth/spotted bass hybrid has acquired this name over
+time from anglers.
+While most anglers may never encounter this hybrid, it is important to note that
+an odd looking smallmouth or spotted bass may not necessarily mean it is a hybrid.
+To avoid any potential size restriction issues, anglers should obey the smallmouth
+bass size limit (the most restrictive) if they decide to harvest what they think is a
+hybrid or “mean-mouth” bass.
+Alabama Bass (Micropterus henshalli)
+Other names: Alabama spotted bass, Alabama spot, spot
+4
+
+-- 8 of 80 --
+
+Brian James
+Until recently, the Alabama bass was considered a subspecies of the spotted bass
+(Micropterus punctulatus), sometimes known as the Northern, or Kentucky spotted
+bass, and was called the “Alabama spotted bass” (Micropterus punctulatus henshalli).
+Based on the latest taxonomic research, the American Fisheries Society (AFS) in
+2011 recognized the latter as a separate species, the Alabama bass. Based on that
+research, the only way to tell the difference between the species is by genetic testing.
+In Tennessee, the Alabama bass currently occurs in the southeastern part of the
+state, within the Parksville Lake/Ocoee River watershed. It has also extended its
+range westward towards the Tennessee River and Watts Bar Reservoir. While the
+TWRA did not stock this species, it is believed they were illegally stocked by an-
+glers into the previously-mentioned watershed since the Alabama spot was originally
+found only in the Alabama/Mobile River system. As such, it is considered a non-
+native species in Tennessee.
+Although the habitat and behavior of both the Alabama bass and spotted bass are
+very similar, (flowing water, clay-gravel bottoms, deeper water, and hanging out away
+from the shoreline), the Alabama bass has a growth advantage over our native spotted
+bass and commonly obtains weights over 4.5 pounds. The state record is 7 pounds.
+Smallmouth Bass (Micropterus dolomieu)
+Other names: bronzeback, smallie, brown bass, brownie
+Smallmouth bass can be found in clear, rocky, fast-flowing streams with riffles,
+pools, and large rocks. These streams should have gravel-rubble bottoms and water
+temperature should not exceed 90 F in summer. They are also found in most large
+reservoirs near ledges and rocky areas where the water is usually clear. Spawning
+activity begins when water temperatures are 60-65 F, generally earlier than other
+black bass.
+They feed on a variety of fishes and invertebrates, such as sunfish, shad, shin-
+ers, suckers, tadpoles and crayfish, as well as the nymphs of dragonflies, damselflies,
+stoneflies, mayflies, and dobsonflies (hellgrammites).
+Smallmouth bass are found mainly from Kentucky Reservoir eastward to the
+lower slopes of the Great Smoky Mountains. They are abundant in some areas and
+rare in others. The average smallmouth bass caught by anglers is 14-18 inches with
+a range of 8-22 inches. Tennessee has the recognized world record at 11 pounds, 15
+ounces. The smallmouth bass is the official state sport fish.
+5
+
+-- 9 of 80 --
+
+Brian James
+jaw extends behind eye
+TWRA Staff
+Largemouth Bass (Micropterus salmoides)
+Other names: Northern largemouth, bigmouth bass, bucketmouth, green trout
+Largemouth bass prefer calm, warmer waters in
+rivers, lakes, reservoirs, and ponds, and are often
+found near aquatic vegetation. They also prefer cov-
+er, such as fallen trees, brush and stumps. They are
+carnivores, eating insects, frogs, crayfish, minnows,
+sunfish, and shad. They sometimes feed on land
+animals such as mice and snakes. Spawning activity
+begins when water temperatures approach 62-65 F.
+Largemouth bass are found throughout the state
+except in the highest elevations of East Tennessee. They are common to abundant in
+most of their range. The average harvested size from reservoirs is approximately 15
+inches with most between 8 and 24 inches in length. The state record is 15 pounds, 3
+ounces, which was a Northern/Florida hybrid, and 12 years old.
+Two subspecies of largemouth bass occur in Tennessee. In addition to the one
+previously described, sometimes referred to as the “Northern” largemouth bass, the
+Florida largemouth bass (Micropterus salmoides floridanus) is also present in the
+state. In an effort to increase the average size of largemouth bass in Tennessee and to
+satisfy the angler’s desire for larger fish, the Florida strain has been stocked in Ten-
+nessee waters for the past 20 years.
+Research is ongoing to determine impacts and growth of Florida largemouth bass
+stockings in Tennessee. Unfortunately, genetic testing must be conducted to deter-
+mine if a largemouth bass is a Northern or Florida strain, as they are very similar in
+appearance.
+6
+
+-- 10 of 80 --
+
+Brian James
+jaw does not extend
+behind eye
+Brian James
+Spotted Bass (Micropterus punctulatus)
+Other names: Kentucky bass, Kentucky spotted bass, spot, lineside,
+Northern spotted bass
+Spotted bass are found in large, cool, slower
+streams and rivers. They are also found in most
+larger reservoirs and their preferred habitat is quite
+similar to smallmouth bass in that they show a pref-
+erence for rocky areas.
+Spotted bass feed on crayfish, shad, and aquatic
+insects and are found throughout the state except
+in the higher elevations in East Tennessee. They are
+plentiful in parts of their range and scarce in others.
+The harvest size from reservoirs averages approximately 13 inches and the range is
+8-18 inches in length. The state record is 6 lbs., 1 oz.
+Until recently, the spotted bass consisted of two subspecies, the spotted bass
+(Micropterus punctulatus), sometimes known as the Northern or Kentucky spotted
+bass, and the Alabama spotted bass (Micropterus punctulatus henshalli). The latest
+taxonomic research (2011) recognizes the latter as a separate species, the Alabama
+bass (Micropterus henshalli), also known as the “Alabama spot”. See species account
+for Alabama bass on page 4.
+7
+
+-- 11 of 80 --
+
+TWRA Staff
+Crappie Spine Count:
+White = 5-6
+Black = 7-8
+TWRA Staff
+Redeye Bass (Micropterus coosae)
+Other name: Coosa bass
+Redeye bass are native to the Conasauga River system in extreme Southeast Ten-
+nessee. Commonly called Coosa bass, this true redeye bass is quite different from the
+rock bass which many people also call a “redeye.” Coosa bass have been stocked in
+streams on the Cumberland Plateau and in some Highland Rim streams, where they
+have established natural populations. In areas where they exist, they usually occupy
+the smaller headwater streams during the summer months, but move downstream
+during the colder seasons.
+Redeye bass feed largely on terrestrial insects, but also consume crayfish, fish
+eggs, salamanders and aquatic insects. These bass are found in isolated areas and are
+uncommon in all but the eastern half of Tennessee. They seldom exceed 12 inches
+in length and most are between 6-8 inches. The state record is 1 pound, 15 ounces.
+Crappie
+Both white and black crappie live in ponds, lakes, reservoirs and low-gradient
+streams and rivers. They are found throughout Tennessee, except in higher elevation
+in the East. They concentrate around brush, fallen trees and stumps, and feed on in-
+sects, freshwater shrimp, amphipods
+and small fish. Although both are
+common in their Tennessee range,
+white crappie is more abundant. To
+help distinguish between the white
+and black crappie, count the spines
+(sharp and pointed) at the beginning
+of the dorsal fin. White crappie have
+5-6 spines and black crappie have 7-8
+spines.
+8
+
+-- 12 of 80 --
+
+Brian James
+Blacknose
+crappie
+Eric Ganus
+Eric Ganus
+Black Crappie (Pomoxis nigromaculatus)
+Other names: papermouth, stubnose, speckled perch, speck, calico bass, slab
+Black crappie are found in quiet, warm waters, and are often as-
+sociated with aquatic vegetation and sandy to muddy bottoms. They
+have irregular, dark speckles on each side and seven or eight spines in the dorsal fin.
+They are less common that white crappie, statewide.
+In the spring, they eat more bottom-dwelling insects than white crappie. Larger
+individuals feed on fish, also. In size, the normal range is 6-14 inches in length and
+most harvested black crappie average around 11 inches in Tennessee. The state re-
+cord is 4 pounds, 4 ounces.
+The blacknose crappie is a black crappie that has a distinctive black stripe run-
+ning from the top (dorsal) fin to the tip of the nose (see insert picture). It is a genetic
+variation of black crappie and is not a hybrid or subspecies. They occur naturally in
+West Tennessee, but have been stocked into several other waterbodies across the
+state since the late 1980s.
+White Crappie (Pomoxis annularis)
+Other names: papermouth, speckled perch,
+white perch, sac-a-lait, slab
+White crappie are found in streams, lakes and slow-moving areas of large rivers.
+They also thrive in small lakes and reservoirs. They are more tolerant of muddy wa-
+ters than black crappie.
+9
+
+-- 13 of 80 --
+
+Brian James
+White crappie have distinctive dark vertical bars and have five or six spines in
+the dorsal fin. White crappie males often become much darker during the spawning
+season and at that time are often misidentified as black crappie.
+White crappie feed on insects, freshwater shrimp, amphipods and small fish. They
+are abundant in their range and the average length for white crappie is normally
+6-14 inches, the same as that of black crappie. The state record for white crappie is 5
+pounds, 1 ounce.
+Sunfishes
+This section contains “bluegill” or “panfish.” Sometimes called bream, they are of-
+ten incorrectly referred to as perch. Also, many people refer to any small sunfish seen
+or caught as a bluegill even though it actually may be a redear sunfish, green sunfish,
+bluegill or other sunfish species. Other fish in the sunfish family (black basses and
+crappie) were covered previously in this guide. All sunfish have similar food habits,
+living chiefly on insects, crustaceans and small fish.
+Bluegill (Lepomis macrochirus)
+Other names: bream, brim,
+sunfish, sunperch,
+redbreasted bream,
+coppernosed bream
+Bluegill inhabit quiet, shallow, reasonably clean, warm lakes, ponds, and reser-
+voirs as well as slow-flowing rivers and creeks containing aquatic vegetation with
+sand, mud, or gravel bottoms. Bluegill can live in most waters but are uncommon in
+trout streams. Insects are their principal food. Bluegill spawn in shallow water and
+their beds are shallow depressions, usually grouped together. Bluegill spawn late into
+summer.
+Bluegill are found throughout Tennessee except in the higher elevations of the
+eastern mountains. They are common throughout this range and are the most com-
+mon sunfish in the state. The average length of bluegill harvested in Tennessee is 7
+inches and the range is 4-11 inches. The state record is 3 pounds.
+10
+
+-- 14 of 80 --
+
+Brian James
+Mike Bramlett
+Redear sunfish prefer warm, clear, non-flowing waters containing vegetation,
+stumps, logs and other cover, and are common in farm ponds, lakes, and reservoirs.
+Their main food items are aquatic snails (giving them the common name of “shell-
+cracker”), midge larvae, amphipods, and mayfly, damselfly, and dragonfly nymphs.
+Other foods are zooplankton, fish eggs, and crayfish. The feeding habits of redear
+do not differ significantly from bluegill, except redear sunfish eat more snails. In ad-
+dition, redear sunfish do not spawn more than once per year and usually spawn in
+deeper water than bluegill.
+Redear sunfish are common throughout Tennessee except in the higher elevations
+of the eastern mountains. The average length of redear harvested in Tennessee is 8
+inches, and the range is 4-12 inches. The state record is 3 pounds, 6 ounces.
+Green Sunfish (Lepomis cyanellus)
+Other names: green perch,
+pond perch
+Redear Sunfish
+(Lepomis microlophus)
+Other names: shellcracker,
+stumpknocker,
+chinquapin,
+bream
+Green sunfish will tolerate many habitats, but prefer warm, still waters. They in-
+habit lakes, ponds and sluggish creeks and streams and are known to establish terri-
+tory near the water’s edge under brush, rocks or exposed roots.
+11
+
+-- 15 of 80 --
+
+TWRA Staff
+Brian James
+Green sunfish are agressive feeders and prefer dragonfly and mayfly nymphs, cad-
+disfly larvae, midges, freshwater shrimp and beetles, and will occasionally eat small
+fish like mosquitofish. Common throughout their range, they are found across the
+state except in the higher elevations of East Tennessee. Their average length is 4
+inches and the range is 2-8 inches in length. The state record is 1 pound, 4 ounces.
+Green sunfish/bluegill hybrids are often sold as “hybrid bluegill.”
+Warmouth (Lepomis gulosus)
+Other names: warmouth bass,
+goggle-eye, bream,
+red-eyed bream,
+stumpknocker
+Warmouth inhabit relatively shallow, slow-flowing, mud bottom creeks, ponds,
+lakes, swamps and reservoirs. They are often found hiding around weed beds, snags
+and under the banks of streams and ponds, rather than in open water. Because of
+their large mouths, warmouth have more variety in their diet than most sunfish.
+They eat small fish, as well as invertebrates such as crayfish, snails and freshwater
+shrimp. Dragonflies and other insects are also important food items.
+Warmouth are found throughout the state except in the higher elevations of East
+Tennessee. Warmouth range from uncommon in some locations to common in oth-
+ers. Seven inches is the average length of warmouth harvested from Tennessee wa-
+ters, and the range is 4-10 inches. The state record is 1 pound, 12 ounces.
+Rock Bass (Ambloplites rupestris)
+Other names: redeye,
+black perch, goggle-eye,
+rock sunfish
+12
+
+-- 16 of 80 --
+
+TWRA Staff
+Rock bass, sometimes called redeye bass, prefer small, cool streams or the shore-
+line of larger streams with rocky, silt-free bottoms, clear water and extensive cover.
+They are occasionally found in clear, rocky areas of reservoirs and often congregate
+in deep pools near boulders, ledges, logs and other cover.
+Major foods of the rock bass are crayfish, aquatic and land insects, small mollusks,
+and small fishes. In Tennessee, rock bass are found in the cooler streams associated
+with smallmouth bass or even trout. They are found between Kentucky Reservoir
+and the higher elevations of East Tennessee. Rock bass average eight inches in length
+when harvested in Tennessee and the range is 6-12 inches. The state record is 2
+pounds, 8 ounces.
+Redbreast Sunfish (Lepomis auritus)
+Other names: redbreast bream, redbelly, yellowbelly sunfish, robin
+Redbreast sunfish inhabit streams, rivers and lakes. In streams with rapids, they
+move to deeper stretches with gravel or rocky bottoms and frequently concentrate
+around boulders, limestone outcroppings, logs or aquatic vegetation.
+The major food of the redbreast is aquatic insects, including caddisflies, dragon-
+flies, beetles, midges and mayflies. They also eat land insects, snails, crayfish, small
+fish, and occasionally organic matter from the stream bottom.
+Redbreast may be found throughout the state except in higher elevations in East
+Tennessee. They are more common in the eastern part of the state and are consid-
+ered rare in West Tennessee. Redbreast sunfish are also more common in streams
+than in reservoirs, ponds, or lakes. Nine inches is the average length of redbreast
+sunfish kept by anglers in Tennessee with a range of 5-12 inches. The state record is
+1 pound, 5 ounces.
+13
+
+-- 17 of 80 --
+
+Brian James
+Mark Thurman
+Orangespotted Sunfish (Lepomis humilis)
+Other names: redspotted sunfish, dwarf sunfish, sunperch
+Orangespotted sunfish are found in quiet streams and vegetated lakes, ponds and
+reservoirs. Insects constitute their major food source.
+They are found primarily in the western half of Tennessee and are uncommon
+even in that area. With a range of 1-4 inches, this sunfish averages 2 inches in length
+and is one of the smallest of the sunfish family. The state record is 5 ounces.
+Flier (Centrarchus macropterus)
+Other names: round sunfish, goggle-eye, flier bream
+The flier prefers sluggish lowland habitats with clear, heavily vegetated waters.
+Its feeding habits are typical of sunfish and include zooplankton, midges, beetles,
+worms, snails, clams and occasionally fish, fish eggs or fry.
+The flier is found in West Tennessee, in streams that flow directly into the Missis-
+sippi River and Reelfoot Lake. Although not common within this range, the average
+length caught is 4 inches and the range is 3-6 inches. The state record is 8 ounces.
+14
+
+-- 18 of 80 --
+
+Brian James
+Rob Lindbom
+Longear Sunfish (Lepomis megalotis)
+Other names: bream,
+sunperch, pumpkinseed
+Although longear sunfish now thrive in reservoirs, they typically inhabit creeks,
+small streams and rivers. They feed on immature aquatic insects, worms, crayfish,
+small fish and fish eggs. Longear sunfish are found throughout Tennessee except in
+the higher elevations of the eastern mountains. They are common throughout most
+of their range in Tennessee and are one of the most colorful fish seen by anglers. Av-
+eraging around 6 inches, adults normally range from 4-8 inches in length. The state
+record is 13 ounces.
+Pumpkinseed (Lepomis gibbosus)
+Other names: sunperch, sunny
+The pumpkinseed is an inhabitant of quiet, sluggish waters, and is occasionally
+found in the northeastern part of Tennessee. It is one of the most uncommon sunfish
+in the state. Pumpkinseed feed on zooplankton, midges, mayfly nymphs, snails and
+insects. Their average length is four inches, and the range is 2-6 inches. The state
+record is 5 ounces.
+15
+
+-- 19 of 80 --
+
+Brian James
+Brian James
+Temperate (True) Bass
+As their name implies, these fish are true bass, as opposed to the black bass, which
+are actually members of the sunfish family. To help with identification between the
+species, see page 18.
+Striped Bass (Morone saxatilis)
+Other names: rockfish,
+striper, rock,
+linesides
+Striped bass were originally native to the Atlantic Ocean and Gulf of Mexico,
+where they entered fresh water only to spawn. In Tennessee, they are found only
+where they have been stocked, or in places where they have migrated from stocked
+waters. They occupy open water areas, usually in schools. Striped bass feed almost
+exclusively on gizzard shad, threadfin shad, and other herrings.
+In Tennessee waters where striped bass have been stocked, they can be consid-
+ered common, but they can migrate to other reservoirs through the series of dam
+locks. The average harvested size of striped bass from reservoirs is approximately 32
+inches but the range is 15-40 inches. The state record is 65 pounds, 6 ounces.
+White Bass (Morone chrysops)
+Other names: stripe,
+stripe bass, sand bass,
+silver bass
+White bass are found in open water schools, usually in clear, cool-water rivers and
+reservoirs. They feed on fishes, mainly small shad and minnows. They normall “run”
+upstream to spawn when water temperatures reach 50-55 F in the spring.
+White bass are found throughout the state except in the higher elevations of East
+Tennessee and are common to abundant over their range. The average size of white
+bass harvested from reservoirs is approximately 12 inches and the range is 8-18 inch-
+es in length. The state record is 5 pounds, 10 ounces.
+16
+
+-- 20 of 80 --
+
+Brian James
+Brian James
+Yellow Bass(Morone mississippiensis)
+Other names: brassy bass,
+striped jack, stripe,
+yellow belly,
+barfish
+Yellow bass are found in quiet pools and backwaters of large streams, lakes and
+reservoirs. They prefer warmer waters than white bass and feed in open water on
+small crustaceans, insects and small fish.
+Yellow bass were originally found in the western part of the state, but more re-
+cently have shown up in many reservoirs of the Tennessee and Cumberland rivers
+where they are now moderately common to abundant. Harvested yellow bass aver-
+age 7-10 inches and range from 4-11 inches in length. The state record is 2 pounds,
+9 ounces.
+Cherokee Bass (Morone saxatilis x M. chrysops)
+Other names: hybrid striped bass, hybrid, wiper,
+whiterock, hybrid rock,
+sunshine bass
+This species is a cross between the female striped bass and the male white bass.
+Initially known as the “hybrid,” it was renamed the Cherokee bass because of the
+first successful Tennessee introduction into Cherokee Reservoir in 1965. The Chero-
+kee bass prefers habitat similar to that of the striped bass and is only found where
+stocked or where it has migrated through dams to nearby reservoirs. They are known
+for their superior fighting abilities.
+The feeding habits of Cherokee bass are similar to striped bass and white bass in
+that they herd schools of shad near the surface and can cause considerable surface
+disturbance when feeding. They average approximately 18 inches in length and the
+range is 8-30 inches. The state record is 23 pounds, 3 ounces.
+17
+
+-- 21 of 80 --
+
+Temperate Bass Comparison Chart
+TWRA Staff
+18
+
+-- 22 of 80 --
+
+Brian James
+Rob Lindbom
+Pike
+Two species of pike are commonly sought by anglers in Tennessee; the muskel-
+lunge and the pickerel. The muskellunge occurs as two distinct strains. The first is
+native to streams in the northern portion of the Cumberland Plateau. It has been
+reintroduced to several other streams in middle and East Tennessee. The other strain
+prefers the waters of lakes and reservoirs and has been stocked in several reservoirs.
+Muskellunge (Esox masquinongy)
+Other names: musky, muskie, jack pike
+Both strains of musky found in Tennessee prefer cool clear water with aquatic
+vegetation. They are rarely far from cover and often hang motionless near cover
+awaiting their prey. Muskellunge feed primarily on fish, but they are also known to
+prey on snakes or other terrestrial animals that might be available.
+Tennessee muskellunge are found in tributaries of the Big South Fork of the
+Cumberland River, and also the Emory River and its tributaries in the Tennessee
+River system. They have also been reintroduced to several other reservoirs and river
+systems, including the Upper Caney Fork River and its tributaries, and Collins and
+Calfkiller rivers. They are also found in Melton Hill, Dale Hollow, and Parksville res-
+ervoirs. Muskellunge averages about 32 inches in length at harvest and ranges from
+20-45 inches. The state record is 43 pounds, 14 ounces.
+Chain Pickerel (Esox niger)
+Other names: pickerel, grass pike, chainsides
+Chain pickerel survive in habitat that varies from clear, shallow, heavily vegetat-
+ed shoal water to the deeper parts of lakes. They are most commonly found in the
+backs of coves in Kentucky Reservoir and many West Tennessee streams. They prefer
+brush and weed beds.
+Chain pickerel feed on fish and other vertebrates, sometimes including mice, sala-
+19
+
+-- 23 of 80 --
+
+Brian James
+manders, frogs and tadpoles. They are found in the western third of Tennessee and
+are generally uncommon. The average length of chain pickerel caught in Tennessee
+is 20 inches and range from 12-28 inches. The state record is 7 pounds, 7 ounces.
+The redfin pickerel (Esox americanus), sometimes called grass pickerel also oc-
+curs in the western third of the state, where it inhabits sluggish waters from ponds
+and swamps to pools in rivers and streams. Their diet is similar to the chain pickerel,
+although they seldom exceed 15 inches in length.
+Perch
+Although the perch family is one of the largest families of fish in North America,
+only three species are commonly sought by anglers because of their size and excel-
+lent quality as table fare. The remaining species, approximately 100, include some of
+the most beautiful fish in Tennessee; the darters.
+Yellow Perch (Perca flavescens)
+Other names: lake perch, raccoon perch, striped perch, redfin perch
+The yellow perch is a very adaptable species that lives in a variety of habitats. It is
+most common in clear, open water of large lakes, ponds, or quiet rivers with moder-
+ate vegetation, and muck, sand, or gravel substrate. Their food consists of immature
+insects, larger invertebrates and fishes, taken in open water or off the bottom.
+In Tennessee, yellow perch can be found mainly in the larger mainstream res-
+ervoirs of the Tennessee River in Southeast Tennessee, and in Kentucky Reservoir.
+Although common in some of these areas, they are uncommon in most. Their range,
+as well as their numbers, seems to be expanding in the state. Anglers have located
+yellow perch in creeks near the back-end of reservoir embayments. Harvested yellow
+perch average 8 inches in length and range from 4-14 inches. The state record is 2
+pounds, 3 ounces.
+20
+
+-- 24 of 80 --
+
+Brian James
+Brian James
+Sauger (Sander canadensis)
+Other names: jack salmon, jack fish, sand pike, river pike
+Sauger habitat is typically medium and large, free-flowing streams, rivers, and
+reservoirs. They are more tolerant of turbid conditions than walleye. Fish are their
+principal source of food.
+Sauger are found in all mainstream reservoirs of the Tennessee and Cumberland
+river systems, the Mississippi River and many larger tributary streams. Anglers usu-
+ally locate sauger near dams or river islands. Unlike saugeye and walleye, the sauger
+normally has distinct and separate black spots in the spiny dorsal fin.
+The average length of sauger harvested is approximately 16 inches and the range
+is 10-22 inches. The state record is 7 pounds, 6 ounces.
+Walleye (Sander vitreum)
+Other names: walleyed pike, jackfish, jack salmon, jack, pike perch, blue pike,
+glass-eye
+Walleye prefer large, clear, deep streams, rivers and reservoirs. They can survive
+temperature extremes of 32-90 F, but usually prefer waters with a maximum tem-
+perature around 77 F.
+The walleye is a voracious feeder, primarily on other fish, including shad, sculpins,
+suckers, sunfish, and shiners, which make up most of its diet.
+Walleye are found in many Tennessee reservoirs with favorites being Center Hill,
+Cherokee, Dale Hollow, Norris, South Holston, Tellico, Tims Ford, and Watauga.
+Reservoirs recently stocked with walleye include Cheatham, Chickamauga, Ft. Pat-
+rick Henry, Normandy, Old Hickory, and Watts Bar.
+21
+
+-- 25 of 80 --
+
+Bart Carter
+Bart Carter
+To help distinguish between sauger and saugeye, the walleye has a black spot at
+the rear base of the spiny dorsal fin and a clear white tip on the lower lobe of the
+caudal fin.
+The average length harvested is approximately 18 inches but the range is 14-28
+inches. The state and world record is 25 pounds.
+Saugeye (Sander canadensis x S. vitreum)
+Saugeye are normally a hatchery-produced hybrid created by crossing a female
+walleye with a male sauger, although natural crosses of the two species can occur in
+waters where they are both present. While they will not attain the size of the walleye,
+they seem to grow faster and reach harvestable size quicker.
+Saugeye habitat preferences are closer to sauger than walleye, and they are more
+tolerant of warm, muddy water than walleye, although all three normally spend most
+of their time staying close to the bottom, depending on water clarity.
+The feeding habits of saugeye are similar to their “parental” species, feeding on
+benthic invertebrates and worms when young, and then transitioning to fish, such as
+shad and shiners as adults.
+Saugeye have been stocked for the past several years in Cherokee Reservoir, lo-
+cated in the eastern part of Tennessee. The average saugeye harvested is approxi-
+mately 18 inches, but the range is 15-21 inches. The current state record saugeye is
+10 pounds, 12 ounces.
+Saugeye look similar to both parental spe-
+cies, but can best be identified by the “blotchy”
+and somewhat subdued (versus distinct) saddle
+markings on their sides and back. Also, the
+spiny dorsal fin has black spots and bars (con-
+nected and continuous) in at least the first half
+of the fin (right).
+22
+
+-- 26 of 80 --
+
+Brian James
+Jim Habera
+wild brook
+trout
+Brian James
+hatchery-raised brook trout
+Trout
+Although four species of trout are found in Tennessee, only one, the brook trout,
+is native to the state. Trout are usually associated with streams of the eastern moun-
+tains, but there are many instances where tailwaters, small rivers and spring-fed
+streams in other portions of Tennessee have temperatures that support these cold-
+water fish year-round. The TWRA has established a winter trout stocking program
+in select, publicly accessible ponds and small lakes across the state that provides a
+quality fishing experience for anglers seeking this opportunity. Visit the TWRA web-
+site for more information about this program, and all other trout stocking locations.
+Brook Trout (Salvelinus fontinalis)
+Other names: brookie, speckled trout, mountain trout, specks, charr
+Brook trout are found mostly
+in clear, cold, headwater streams
+at 	elevations 	generally 	above
+3,000 feet in the mountains of East
+Tennessee. The water temperature of
+brook trout habitat rarely exceeds 68 F. They are the only trout native to Tennessee
+and fish from the southern Appalachians have been found to be genetically distinct
+from brook trout native to more northern parts of this species’ range.
+They feed extensively on aquatic and land insects, snails, fish eggs, frogs, sala-
+manders, small fishes, and crustaceans. They are common in the upper parts of
+many high mountain streams, fading to rare in the lower sections of these streams. A
+hatchery-produced variety is also stocked in some cold tailwaters.
+Harvested length of Tennessee brook trout ranges between 5-12 inches. The state
+record is 4 pounds, 12 ounces.
+Brown Trout (Salmo trutta)
+Other name: brown
+Brown trout are not native to the state, but have been introduced in many suitable
+places. They can be found in coldwater streams and rivers at elevations generally
+23
+
+-- 27 of 80 --
+
+Brian James
+John Hammonds
+below 3,000 feet, as well as tailraces and reservoirs where water temperatures stay
+below 70 F. Although their habitat is similar to that of the brook or rainbow trout,
+brown trout can live in water with slightly higher temperatures.
+Brown trout favor mayflies and other aquatic insects but will feed on worms,
+snails, frogs, insects, crawfish, salamanders and smaller fish.
+They are most common in areas where they are maintained by stocking. The aver-
+age length harvested in our state is around 12 inches and the range is 8-24 inches.
+The state record is 28 pounds, 12 ounces.
+Rainbow Trout (Oncorhynchus mykiss)
+Other names: rainbow,
+redside
+Rainbow trout are not native to Tennessee, but they have been stocked extensively
+in the state, particularly in the East. They are usually found where water tempera-
+tures stay below 70 F. This includes many mountain streams in East Tennesse above
+elevations of 1,800 feet, as well as spring-fed streams, reservoirs, and tailwaters else-
+where that provide suitable coldwater habitat.
+Rainbow trout eat insects, crayfish, fish, and fish eggs. The average harvested
+length is approximately 9 inches, with a range of 6-20 inches. The state record is 18
+pounds, 8 ounces.
+Lake Trout (Salvelinus namaycush)
+Other names: gray trout, laker
+Lake trout are the third non-native trout species found in Tennessee, and are
+stocked in South Holston and Watauga reservoirs in the eastern part of the state.
+They are usually found in the deeper and colder depths of these reservoirs.
+The diet of lake trout varies with the age and size of the fish, but mainly consists
+of aquatic insects, snails, and fish. Lake trout caught by anglers in Tennessee usually
+range from about 3-10 pounds. The state record is 22 pounds, 2 ounces.
+24
+
+-- 28 of 80 --
+
+Brian James
+Eric Ganus
+Catfish
+Although approximately 21 native species of catfish exist in Tennessee, only six
+species are commonly caught by anglers. These species are divided into two groups:
+the true catfish and a group popularly called bullheads. The practical difference is
+that bullheads are somewhat smaller and have a tendency to live in smaller and pos-
+sibly muddier waters.
+Channel Catfish (Ictalurus punctatus)
+Other names: channels, fiddler, willow cat,
+spotted catfish, speckled catfish,
+forked-tail cat
+Channel catfish are characteristic of clear, medium to large rivers, reservoirs, and
+ponds. They will eat almost anything, preferring insects, worms, fish eggs, crayfish, a
+variety of plants, and fish (usually dead). Younger fish usually have dark spots along
+the sides of the body, (see above), hence the other names of spotted or speckled
+catfish.
+Channel catfish are common and found throughout the state except in trout
+streams in higher elevations of East Tennessee. The average length harvested from
+reservoirs is approximately 16 inches and the range is 10-38 inches. The state record
+is 41 pounds, and the channel catfish is the official state commercial fish.
+Blue Catfish (Ictalurus furcatus)
+Other names: white cat, blue channel, Mississippi cat, Fulton cat
+25
+
+-- 29 of 80 --
+
+Brian James
+TWRA Staff
+Blue catfish, the most common catfish harvested by anglers, are found in major
+rivers and reservoirs, but are also characteristic of deep areas of large rivers through-
+out their range. Look for them in chutes and pools with currents.
+The food of the blue catfish includes fish, crayfish, aquatic insects and many other
+animals it encounters. Found throughout Tennessee in reservoirs and larger rivers,
+this catfish is common and also reaches the largest size among its relatives. Approxi-
+mately 18 inches is the average length harvested from reservoirs, with a range of 14-
+45 inches. The state record is 112 pounds.
+Flathead Catfish (Pylodictis olivaris)
+Other names: shovelnose cat, yellow cat, mud cat, shovelhead cat, Appaloosa cat,
+bluff cat
+Flathead catfish live in major rivers and reservoirs, and prefer deep holes scoured
+by currents, such as those in eddies adjacent to bridge pilings and in tailraces below
+dams. They feed mainly on live fish, taking whatever is most available. Food includes
+gizzard shad, freshwater drum, carp, channel catfish, bullheads, bluegill, and occa-
+sionally crayfish.
+Flathead catfish are found throughout Tennessee except in the higher elevations
+of the eastern mountains. They are common, and those harvested average 18 inches
+with a range of 12-40 inches in length. The state record is 85 pounds, 15 ounces.
+Yellow Bullhead (Ameiurus natalis)
+Other names: mud cat, pollywog, yellow belly
+Yellow bullheads inhabit small shallow lakes, ponds, reservoirs and slow-moving
+streams with various bottom types from muck to gravel. They are less tolerant of
+poor water conditions than other bullheads.
+Yellow bullhead feed on a wide variety of small, live and dead fish. They will also
+eat dragonfly nymphs, crayfish, mollusks and fragments of aquatic plants. They are
+common throughout Tennessee except in the higher elevations of the eastern moun-
+tains. The average length for yellow bullhead harvested in Tennessee is approximate-
+ly 10 inches with a range of 4-16 inches. The state record is 4 pounds, 8 ounces.
+26
+
+-- 30 of 80 --
+
+TWRA Staff
+TWRA Staff
+Brown Bullhead (Ameiurus nebulosus)
+Other names: mud cat, pollywog, brown catfish, speckled bullhead
+Brown bullheads usually inhabit still or slowly-flowing warm waters such as
+ponds, lakes and sluggish streams and reservoirs. They are tolerant of poor water
+conditions including siltation and pollution. Brown bullhead feed on mollusks, in-
+sects, leeches, sunfish, crustaceans, worms, algae, plant material, fish (usually dead),
+and fish eggs.
+Found throughout Tennessee, except in the high elevations of the eastern moun-
+tains, this bullhead is less common. Average length harvested is 8 inches and the
+range is 4-14 inches. The state record is 3 pounds, 15 ounces.
+Black Bullhead (Ameiurus melas)
+Other names: mud cat, pollywog
+Black bullhead are found in ponds and lower sections of small to medium-sized
+streams with little slope. Black bullhead also inhabit pools and backwaters of larger
+streams and rivers and silty, soft-bottomed areas of lakes and reservoirs.
+They feed on immature insects, clams, snails, crustaceans, plant material, leeches
+and fish (usually dead), such as shiners and sunfish. Black bullhead are common and
+found throughout the state except in the higher elevations of the eastern mountains.
+Eight inches is the average harvested length, with a range of 4-14 inches. The state
+record is 3 pounds, 6 ounces.
+27
+
+-- 31 of 80 --
+
+Brian James
+TWRA Staff
+Gar
+Gar frequent quiet, often weedy waters where food is abundant. Gars eat fish such
+as minnows and small sunfish. They also have the ability to “gulp” air directly into an
+air bladder which allows them to “breathe”, and in turn, survive in waters with very
+little dissolved oxygen. Gar are edible, but are not considered a food fish. The eggs of
+all gar are reported to be poisonous to vertebrate animals, including humans.
+Longnose Gar (Lepisosteus osseus)
+Other name: needlenose gar
+Longnose gar are found in larger streams and reservoirs, where they prefer the
+warmest waters. Adult gar feed on fish such as shiners, sunfish, shad, catfish, carp
+and bullheads, as well as any other available food that their throats will accommo-
+date. They show a preference for minnows and other small fish that lack spiny fins.
+Longnose gar are found throughout the state except in the higher elevations of
+East Tennessee. They are common throughout this range. The average longnose re-
+corded in Tennessee is around 20 inches, but the range is 12-36 inches. The state
+record is 38 pounds, 3 ounces.
+Shortnose Gar (Lepisosteus platostomus)
+Other names: short-bill gar, stub-nose gar
+Shortnose gar are typically found in quiet, backwater areas of rivers, reservoirs,
+and in lakes and oxbows. They are more tolerant of muddy water than other gar and
+prefer warm water. This gar feeds on crayfish, fish and aquatic insects.
+They are common in the western portion of the state, gradually declining in abun-
+dance toward the eastern part of Tennessee, where they are rare. Tennessee short-
+nose gar average around 18 inches and range from 12-30 inches in length. The state
+record is 7 pounds, 3 ounces.
+28
+
+-- 32 of 80 --
+
+Brian James
+dorsal view of head
+Brian James
+Brian James
+Spotted Gar (Lepisosteus oculatus)
+Other name: leopard gar
+Spotted gar are most abundant in quiet, clear water with abundant aquatic vegeta-
+tion. They prefer warmer waters than other gar, and also feed on fish.
+In Tennessee, spotted gar are found mostly in the larger reservoirs and rivers.
+They are more common in the western portion of the state, becoming uncommon
+in eastern waters. Average length is 18 inches with a range of 12-26 inches. The state
+record is 10 pounds, 10 ounces.
+Alligator Gar (Atractosteus spatula)
+Other name: gator gar
+The alligator gar is the largest of the four spe-
+cies found in Tennessee, and one of the largest
+freshwater fishes. They inhabit sluggish pools
+and backwaters of large rivers and oxbow lakes
+in the western portion of the state. Their diet is
+mainly fish, but they will eat any potential food
+item of appropriate size, including reptiles, am-
+phibians, birds, and small mammals.
+Alligator gar have declined drastically in abundance over the past fifty years and
+the decline has been attributed to habitat loss. Accordingly, there has been an on-
+going stocking program since 1999 to restore this gar in West Tennessee. For now,
+alligator gar are protected in the state and if one is caught, it must be released imme-
+diately. However, anglers are encouraged to report alligator gar catches to the nearest
+TWRA regional office, as this will assist the Agency in monitoring the restoration
+effort.
+Where harvest is allowed in other states, anglers report alligator gar ranging from
+4-6 feet and weighing 40-150 pounds.
+29
+
+-- 33 of 80 --
+
+Brian James
+Eric Ganus
+Buffalo
+Buffalo are members of the sucker family and all prefer the same general type of
+habitat – large rivers and reservoirs. They are primarily a commercial species and
+because of their feeding habits, are only occasionally caught by sport anglers. It can
+be very difficult to differentiate the three species of buffalo at large sizes.
+Bigmouth Buffalo (Ictiobus cyprinellus)
+Other names: gourdhead, common buffalo, buffalo fish
+Bigmouth buffalo inhabit the shallow portions of large rivers, oxbows, lakes, and
+reservoirs. Even though they prefer clear water, they can tolerate muddy water and
+are well adapted to reservoirs. Bigmouth buffalo eat plankton as well as bottom or-
+ganisms, including insects, mollusks, algae, many microscopic organisms and plant
+material.
+Bigmouth buffalo are found throughout the western half of Tennessee in larger
+bodies of water and in the mainstream reservoirs as far east as Knoxville. Although
+these are seldom seen by sport anglers, they are common throughout their range.
+Harvested bigmouth buffalo average approximately 24 inches in length, and the
+range is 16-38 inches. The state record is 62 pounds.
+Smallmouth Buffalo (Ictiobus bubalus)
+Other names: razor-back buffalo, hump-backed buffalo, high-back buffalo
+30
+
+-- 34 of 80 --
+
+Eric Ganus
+Smallmouth buffalo prefer the clear waters of larger rivers and reservoirs. They
+eat both animal and vegetative matter, and their main animal foods are aquatic lar-
+vae and sometimes microscopic forms strained from the mud. Vegetative matter in-
+cludes algae and small plants.
+Smallmouth buffalo are common throughout most of Tennessee in larger rivers
+and reservoirs. The average length of smallmouth buffalo harvested in Tennessee is
+22 inches with a range of 14-34 inches. The state record is 62 pounds, 7 ounces.
+Black Buffalo (Ictiobus niger)
+Other names: mongrel buffalo,
+blue rooter, round buffalo
+Black buffalo are similar to bigmouth and smallmouth buffalo, but since they pre-
+fer running water they are often found in strong currents of large rivers. Although
+more of a vegetarian than other buffalo, black buffalo also eat plankton, insect larvae,
+snails, and other small mollusks.
+The range of black buffalo in Tennessee is similar to that of the bigmouth buffalo.
+Harvested black buffalo average 24 inches and range between 16-40 inches in length.
+The state record is 58 pounds.
+31
+
+-- 35 of 80 --
+
+Brian James
+Redhorses
+Redhorses are a group of large suckers that so closely resemble one another that
+only an expert can tell the various species apart. Other redhorses not pictured or
+described here include the black, river, silver, and smallmouth. Generally, they are
+found throughout the state except in high mountain trout waters, and feed on plank-
+ton, bivalve mollusks, insect larvae like mayflies, caddisflies and midges, and fish
+eggs.
+Golden Redhorse (Moxostoma erythrurum)
+Other names: yellow sucker, golden sucker
+The golden redhorse inhabits riffle areas and pools of small to large, clear streams
+and rivers, where riffles are composed of sand, gravel, boulders, and bedrock, and
+the pools are free from heavy silt and aquatic vegetation. It is also found in lakes and
+reservoirs, but is better adapted to river than lake habitats.
+Food for the golden redhorse consists of animals and algae sucked up from bot-
+tom sediments, including immature insects, worms, mollusks, chironomids, may-
+flies, caddisflies, oligochaetes, and fingernail clams. They are found throughout Ten-
+nessee, except the higher elevations of the eastern mountains and the Mississippi
+River and its direct tributaries. It is often common in its range. The state average
+for golden redhorse is 14 inches, with a range of 10-20 inches. The state record is 2
+pounds, 15.5 ounces.
+32
+
+-- 36 of 80 --
+
+TWRA Staff
+quillback
+carpsucker
+Eric Ganus
+Carpsuckers
+In addition to the river carpsucker, there are two other closely related species
+found in Tennessee. These are the highfin carpsucker and the quillback carpsucker.
+All inhabit similar waters with the latter two being more typical of reservoirs. All are
+tolerant of warm and muddy water and are bottom feeders with similar diets. As with
+buffalo, carpsuckers are only occasionally caught by sport anglers.
+River Carpsucker (Carpiodes carpio)
+Other names: white carp, lake carp, quillback
+The river carpsucker prefers Tennessee’s larger river systems and reservoirs, but
+may also be found in more moderately sized rivers, except those in the extreme east-
+ern portion of the state. The river carpsucker’s diet consists of food found on the
+bottom, such as insects, algae, and plant material.
+River carpsuckers are generally common where they occur, averaging approxi-
+mately 14 inches in length and ranging from 10-20 inches. The state record is 1
+pound, 9 ounces. For the quillback carpsucker, the state record is 6 pounds.
+33
+
+-- 37 of 80 --
+
+Brian James
+filament
+Brian James
+filament
+Herring (Shad)
+There are five members of the herring family (usually referred to as clupeids or
+shad) found in Tennessee. All of the herrings are generally thought of as forage spe-
+cies, although the skipjack is actually a predator for much of its life. In addition to
+the three species described here, two other herring species are considered aquatic
+nuisance species and are discussed beginning on page 48.
+Also, to help distinguish young of the year gizzard and threadfin shad, which are
+used for bait, from the invasive Asian carp (pages 51-52), note that our native gizzard
+and threadfin shad have a “filament” at the end of the dorsal fin. Asian carp do not.
+Gizzard Shad (Dorosoma cepedianum)
+Other names: shad, gizzards, hickory shad, herring
+Gizzard shad occur in schools and prefer productive, calm, warm waters, al-
+though they can also be found in rivers, streams, and tailraces where currents are
+strong. Their habitat also includes natural lakes, ponds, pools and backwaters of low
+gradient streams.
+They feed almost entirely on microscopic organisms which are strained from wa-
+ter or silt. Gizzard shad will also pick through mud and organic matter on the bot-
+tom for small food. They are widely distributed in Tennessee and are abundant in all
+large streams and lakes. Although they are seldom caught by hook and line, gizzard
+shad average approximately 8 inches in length and the range is 2-14 inches. The state
+record is 3 pounds, 3 ounces.
+Threadfin Shad (Dorosoma petenense)
+Other names: shad, yellowtails, yellowfin
+34
+
+-- 38 of 80 --
+
+Brian James
+Threadfin shad live in lakes, larger rivers, and reservoirs. While this fish may not
+be native to any portion of Tennessee, it has been widely introduced into reservoirs,
+and lakes as a forage species.
+Threadfin shad feed on plankton and are common in all major rivers and reser-
+voirs. They range in size from 1-6 inches.
+Skipjack Herring (Alosa chrysochloris)
+Other names: skipjack, river herring, hickory shad, Tennessee tarpon
+Skipjack herring prefer large rivers with clear, cool, flowing water. They are also
+common in large mainstream reservoirs where they can be found in the fast-flowing
+waters below dams. They feed primarily on fish, insects, and plankton, and often in
+schools, when they force groups of small shad to the surface.
+Skipjack herring are found mostly in Tennessee’s mainstream reservoirs and their
+larger tributary rivers. They are common in this habitat from Knoxville westward,
+excluding the Cumberland Plateau. They average approximately 12 inches in length
+and the range is 9-20 inches. The state and world record is 4 pounds, 3 ounces.
+35
+
+-- 39 of 80 --
+
+Brian James
+juvenile lake sturgeon
+Brian James
+Sturgeon
+Sturgeons are a group of primitive fish that have several rows of bony plates (called
+scutes) on their bodies instead of the typical covering of scales. They also have four
+barbels (whiskers) in front of their sucker-like mouth on the underside of their ros-
+trum (snout). These are used to sense the river bottom and to identify food items.
+This group of fish contains some of the largest freshwater fish and historically were
+an important Tennessee commercial species. Of seven sturgeon species that occur
+in North America, three are found in Tennessee, none of which may be harvested.
+Lake Sturgeon (Acipenser fulvescens)
+An inhabitant of large rivers and lakes, the lake sturgeon is one of three native
+sturgeon species found in Tennessee. While they were formerly found in the Cum-
+berland, Mississippi, and Tennessee rivers, lake sturgeon populations have dramati-
+cally declined and are listed as endangered in Tennessee. The reasons for the decline
+over the last century are a combina-
+tion of over-fishing, habitat loss, and
+the damming of rivers.
+Being a bottom feeder, their diet
+consists mainly of snails, insect lar-
+vae, mollusks and crayfish. Poten-
+tially one of the largest and longest
+living fish in Tennessee, the lake stur-
+geon is reported to grow to eight feet
+in length, weigh up to 300 pounds,
+and live 150 years.
+Efforts have been underway to restore reproducing populations of this primi-
+tive species to Tennessee waters. Since 2000, over 220,000 lake sturgeon have been
+stocked into the Cumberland River and the upper portion of the Tennessee River.
+Although lake sturgeon must be released if caught, TWRA encourages anglers to
+report pertinent information, such as time and location of capture, and the length
+of the lake sturgeon by calling the Fisheries Division at 615-781-6575. Information
+may also be emailed to sturgeon.reports@tn.gov. This data will provide important
+movement and growth information needed to monitor the success of Tennessee’s
+lake sturgeon reintroduction program. In appreciation for reporting this informa-
+tion, anglers will receive a Lake Sturgeon Certificate. Anglers may also call the near-
+est TWRA regional office to make a report (see page 74).
+36
+
+-- 40 of 80 --
+
+David Ostendorf
+David Ostendorf
+Shovelnose Sturgeon (Scaphirhynchus platorynchus)
+Other name: hackleback
+Although the most common sturgeon in Tennessee, the shovelnose sturgeon is
+found mainly in the Mississippi River in areas of moderate to strong current. Like
+the other two native sturgeons, the shovelnose feeds entirely on the bottom, with
+aquatic insect larvae being their primary food. Unlike the lake and pallid sturgeons,
+the shovelnose is a “small” sturgeon, seldom exceeding a length of 30 inches or a
+weight of 6 pounds.
+Until 2010, this sturgeon was harvested by commercial fishers for its roe (eggs) in
+the production of caviar. Shovelnose sturgeon are now a protected species because
+of their similar appearance to Tennessee’s third sturgeon species, the pallid sturgeon,
+which is listed as an endangered species.
+Pallid Sturgeon (Scaphirhynchus albus)
+Other name: white hackleback
+The pallid sturgeon is an endangered species which cannot be harvested, and is
+very similar in appearance to the shovelnose sturgeon. It is found in the Mississippi
+River in areas with strong current and, like the previous two sturgeons, it is a bot-
+tom-dwelling fish preferring a firm, sandy or gravel substrate.
+The pallid sturgeon is one of the rarest and largest fishes in Tennessee and altera-
+tions of large river systems such as damming, channelization and diking is believed
+to be the primary cause of their decline.
+Pallid sturgeon feed on aquatic insects and small fish, and attain a larger size than
+shovelnose sturgeon, reaching lengths of over 6 feet and weighing over 70 pounds
+with a lifespan of over 50 years. Hybrids between the pallid and shovelnose sturgeon
+occur in the wild, complicating identification between the two species.
+37
+
+-- 41 of 80 --
+
+Brian James
+dorsal view of
+rostrum (paddle)	Brian James
+Paddlefish
+(Polyodon spathula)
+Other names: spoonbill, spoonbill cat, shovelnose cat, boneless cat
+Paddlefish prefer large, free-flowing rivers rich in zooplankton. However, paddle-
+fish are commonly found in reservoirs where they have adapted but occasionally
+experience unsuitable spawning habitat needed to maintain harvestable populations.
+They feed primarily on plankton strained from the water and occasionally on very
+small fish inadvertently strained during feeding.
+Paddlefish are usually found in the mainstream reservoirs of the Cumberland,
+Tennessee, and Mississippi river systems, although populations exist in a few tribu-
+tary reservoirs of the state. They are common to uncommon over this range. Tennes-
+see paddlefish average 36 inches in length and the range is 24-60 inches. The state
+record is 104 pounds. Paddlefish are commercially harvested for their roe (eggs),
+which is used in caviar production.
+38
+
+-- 42 of 80 --
+
+Brian James
+Bowfin
+(Amia calva)
+Other names: grinnel, dogfish, grindle, mud fish, cypress trout
+The bowfin is a quiet-water resident found in sluggish, swampy, clear, vegetated
+bays of warm lakes and rivers. Bowfin can live in hot, poorly oxygenated waters that
+are uninhabitable to many fish because they are able to take oxygen directly into an
+air bladder, a process similar to breathing.
+Bowfin are voracious predators that favor fish but will consume virtually any type
+of animal, such as fish, crayfish, freshwater shrimp, frogs, and larger insects like wa-
+ter beetles and dragonfly nymphs. They have numerous small teeth in their mouth
+and a bony plate under the throat, between the jaws.
+Bowfin habitat includes waters of the Tennessee River from Chattanooga down-
+stream, the Cumberland River from Nashville downstream, and the Mississippi Riv-
+er and its direct tributaries. They are common in the western part of their range,
+becoming rare in the eastern portion of the state.
+Average length caught is about 20 inches, with a range of 16-34 inches. They av-
+erage 2-5 pounds and can reach 15 pounds. They are strong fighters when hooked,
+but are usually taken by anglers fishing for other fish species. The state record is 15
+pounds, 7 ounces.
+This species looks similar to the snakehead, an aquatic nuisance species that has
+the potential to invade Tennessee (see page 57).
+39
+
+-- 43 of 80 --
+
+Eric Ganus
+TWRA Staff
+fin
+American Eel
+(Anguilla rostrata)
+Other name: eel
+Freshwater Drum
+(Aplodinotus grunniens)
+Other names: sheepshead, white perch, croaker, rosie, gaspergou, grunting perch
+The American eel is shaped like a snake,
+with a slick, smooth surface, but it has pectoral fins.
+It can be found in the Cumberland, Mississippi, and Tennes-
+see River drainages of the state, especially where movement is not impeded
+by dams. Eels are uncommon in Tennessee and are only caught while fishing for other
+fish species. When caught on hook and line, they are strong fighters. There is currently
+an effort to spawn, raise and release eel back into Tennessee waters.
+American eels are mostly nocturnal, hiding by day in deeper water beneath rocks
+and other submerged cover. They feed on animal matter such as fish, crayfish, and
+insects. Adults are commonly 15-35 inches in length, and weigh between 0.5-4.5
+pounds. The state record is 5 pounds, 12 ounces.
+Drum prefer large impoundments and rivers, but occur in a wide variety of habi-
+tats. They are mainly bottom feeders, eating insect larvae, crustaceans, small fish,
+clams, and snails.
+Drum are found throughout the state, excluding trout streams in East Tennessee,
+and are common. They are generally caught when fishing for other species. The aver-
+age harvested length is 10 inches, with a range of 8-30 inches. Tennessee holds the
+world record freshwater drum at 54 pounds, 8 ounces.
+40
+
+-- 44 of 80 --
+
+Brian James
+David Roddy
+Mooneye
+(Hiodon tergisus)
+Other names: shad, toothed herring
+Golden Shiner
+(Notemigonus crysoleucas)
+Other names: Baltimore minnow,
+minnow, roach
+Although the mooneye, and the closely related goldeye are similar in appearance to
+shad and herrings (without the dorsal filament), these two species belong to a different
+family of fish. Another characteristic used to separate these two species from the shad
+or herrings is that both the mooneye and goldeye have teeth on their tongue, jaws, and
+the roof of the mouth.
+Mooneyes, as well as goldeyes, are surface feeders that inhabit mainly open water
+areas of reservoirs and large rivers, and are commonly found in current. The moon-
+eye is more widely distributed statewide than the goldeye, which is found mainly in
+the western half of Tennessee.
+They can be caught on light tackle, but are seldom sought by anglers because of
+their soft and bony flesh. Adult mooneyes range from 12-16 inches. The state record
+is 1 pound, 4 ounces. The state record for the goldeye is 14 ounces.
+The golden shiner is a lake species preferring clean, clear, quiet, shallow, vegetated
+areas of lakes, reservoirs, and sluggish stretches of rivers and streams. It eats algae,
+water fleas, and other plankton organisms, chironomid pupae, aquatic insect larvae,
+dragonfly nymphs, flying insects, midges, mollusks, and occasionally small fish.
+The golden shiner is found throughout Tennessee and is common to abundant. It
+averages approximately 5 inches in length and ranges between 3-8 inches. The state
+record is 1 pound, .05 ounces.
+41
+
+-- 45 of 80 --
+
+Brian James
+TWRA Staff
+snout of a
+brook silverside
+David Roddy
+Goldfish
+(Carassius auratus)
+Other names: carp,
+Baltimore minnow
+Brook Silverside
+(Labidesthes sicculus)
+Other names: silverside, pin minnow
+Goldfish are not native to Tennessee, and have become established by way of bait
+bucket releases, hatcheries, and home aquarium releases. While not common state-
+wide, an occasional one may be caught almost anywhere statewide, in ponds, pools,
+backwaters, and reservoirs.
+Goldfish resemble the common carp (page 54), but they do not have barbels at the
+corners of the mouth while common carp do. When sold as bait, goldfish are some-
+times called “Baltimore minnows.” They feed mostly on aquatic insects and plant
+material and commonly range from 10-20 inches in the wild. The state record is 3
+pounds, 5 ounces.
+Goldfish are known to hybridize with common carp, creating individuals with
+characteristics of both species, complicating identification.
+The brook silverside occurs statewide and is an important forage species for many
+fish such as largemouth bass, white bass, and crappie. It usually prefers the surface
+area of reservoirs, lakes, and rivers. Often found in schools, they feed on small in-
+sects, midges, and zooplankton.
+Brook silversides range from 2.5-4 inches, to a maximum of about 5 inches. One
+other silverside, the inland silverside, is also found in Tennessee and it is listed as an
+Aquatic Nuisance Species (see page 54).
+42
+
+-- 46 of 80 --
+
+Brian James
+Brian James
+mouth of chestnut lamprey
+Brian James
+Stoneroller
+(Campostoma sp.)
+Other name: horny-head
+Chestnut Lamprey
+(Ichthyomyzon castaneus)
+Other name: lamprey eel
+The stoneroller, commonly called “horny-head” because of the conspicuous head
+tubercles on nuptial (breeding) males, is characteristic of small- to medium-sized
+streams with clear, cool water. It is also found in moderate, sometimes rapid current,
+with gravel or rubble bottom, or in pools and riffles, but can also be found in clear
+reservoirs. It is tolerant of muddy or silty waters. An herbivore, the stoneroller eats
+algae and other minute plants found in the mud and on stone surfaces.
+Stonerollers can be found throughout Tennessee and are usually very common.
+They average about 4 inches in length and the range is 2-10 inches. The state record
+is 10 ounces.
+Chestnut lampreys are one of seven native species
+of lampreys found in the state and are the most primi-
+tive fish in Tennessee. The chestnut lamprey is also
+one of three species in the state that parasitize other
+fish. However, these species have not been found to
+have a detrimental impact on the population of the
+host fish. While the host fish usually does not die as
+a direct result of the attack, it may die of secondary infections that develop in the
+remaining wound where the lamprey was attached. The other four species are not
+parasitic on fish.
+Found statewide, chestnut lampreys usually inhabit rivers, reservoirs, and medi-
+um or large streams. Adults begin migrating into smaller streams in early spring and
+spawn in April or May. Although lampreys may resemble the American eel, lampreys
+do not have jaws or pectoral fins. The mouths of adults resemble a sucking disc.
+43
+
+-- 47 of 80 --
+
+Wes Neal
+David Roddy
+Atlantic Needlefish
+(Strongylura marina)
+Other name: needlefish
+Striped Mullet
+(Mugil cephalus)
+Other name: mullet
+Atlantic needlefish, mainly a marine species, are a recent inhabitant of Tennessee
+and are thought to have migrated into the Tennessee River from the gulf coast by way
+of the Tennessee-Tombigbee Waterway. Reported catches have mainly come from
+Kentucky and Pickwick reservoirs with recent sightings on the Cumberland River.
+Needlefish tend to congregate in tailwaters below dams and at steam plants dur-
+ing the winter, and are usually found near the surface. As their name implies, needle-
+fish do not contain much meat, thus they are not of much value as a food fish. They
+feed mainly on fish such as minnows and shad, with adults ranging from 8-20 inches.
+The state record is 1.6 ounces.
+Their impact on native species is unknown at this time, but could negatively im-
+pact the food base of our native sport fish.
+Striped mullet are mainly a marine species that has also recently inhabited the
+Tennessee River, mainly Kentucky Reservoir, by way of the Tennessee-Tombigbee
+Waterway. Like needlefish, striped mullet have a tolerance for freshwater and are
+generally found in open water, traveling in schools near the surface below dams and
+at steam plants. They can also be found near steam plants during the winter.
+Adults feed on plants and plant material and the range is 9-15 inches in length.
+Impacts on Tennessee’s native species are currently unknown.
+44
+
+-- 48 of 80 --
+
+David Roddy
+Tilapia
+Nile Tilapia (Oreochromis niloticus)
+Other names: tilapia, cichlid, mouthbrooder
+The Nile tilapia is one of many freshwater cichlids that is laterally compressed,
+deep bodied, with distinctive, regular, vertical stripes extending far down the body
+including the caudal (tail) fin, variable coloration, and has a long dorsal fin. The na-
+tive range is in the tropical and subtropical areas of Africa and the Middle East.
+This species occurs in freshwater habitats like rivers, lakes, ponds and irrigation
+channels. Populations are currently established in the states of Mississippi, Florida,
+and Tennessee. In Tennessee, the species is found in Cheatham and Old Hickory
+reservoirs, where there is an established fishery due to the “thermal refuge” provided
+by the steam plants.
+Adults reach up to 24 inches in length and up to 9.5 pounds, with the average
+caught in Tennessee being 8-10 inches. The state record is 6 pounds, 5.5 ounces. The
+species lives for up to nine years, and tolerates brackish water and survives tempera-
+tures between 46-108 F. It is an omnivore, feeding on plankton as well as on higher
+plants, but will take common baits and lures used to catch bluegill and other sunfish.
+Sexual maturity is reached at 3-6 months depending on temperature and repro-
+duction only occurs when temperatures are over 68 F. Spawns may occur every 30
+days, allowing several spawnings per year. Females will incubate eggs inside their
+mouths for approximately a week. Up to 200 fry are kept in the mouth, until fry are
+free swimming.
+The Nile tilapia was introduced the United States for aquaculture purposes for its
+flavor and high source of protein. It has since been introduced into Tennessee public
+waters through escape or release from aquaculture ponds and private waters where
+they have been stocked for vegetation control and forage enhancement.
+45
+
+-- 49 of 80 --
+
+TWRA Staff
+TWRA Staff
+TWRA Staff
+Brian James
+Brian James
+Banded Sculpin (Cottus carolinae)
+Blue Sucker
+(Cycleptus elongates)
+Bluntnose Minnow (Pimephales notatus)
+Bullhead Minnow (Pimephales vigilax)
+Fathead Minnow (Pimephales promelas)
+Other Tennessee Fish
+46
+
+-- 50 of 80 --
+
+Bart Carter
+Brian James
+Brian James
+Brian James
+Brian James
+Creek Chub
+(Semotilus atromaculatus)
+Spotted Sucker (Minytrema melanops)
+Logperch (Percina caprodes)
+Northern Hog Sucker (Hypentelium nigricans)
+Northern Studfish (Fundulus catenatus)
+47
+
+-- 51 of 80 --
+
+TWRA Staff
+Aquatic Nuisance Species
+Aquatic non-native animals and plants that escape or are accidently or purpose-
+fully released into waters where they are not native can become a nuisance. Aquatic
+nuisance species (ANS) can pose a threat to Tennessee’s waterways and other aquatic
+environments, both economically and ecologically. Other terms used in place of “nui-
+sance” may include “invasive, nonindigenous, alien, exotic, and undesirable.” Examples
+of aquatic nuisance fish, crayfish, snails, mussels, clams, and plant species that are ei-
+ther found in Tennessee, or are a potential threat to the state are discussed below.
+You can do your part to prevent the spread of aquatic nuisance species by never
+releasing or stocking fish, plants, or other animals into a body of water unless they
+currently inhabit that body of water, (this includes any aquatic species from aquari-
+ums). In addition, eliminating water from livewells, motors and other equipment
+before transporting them from one body of water to another will help eliminate in-
+troductions of ANS. Anglers who catch an unusual species discussed in this ANS
+section, or a species that has not been found in Tennessee, should report it to their
+nearest TWRA office or TW RA’s Fi sheries Division (page 74). For more informa-
+tion on how you can help, visit www.ProtectYourWaters.net, or several of the links
+found in “Further Reading” (page 73). For more information on Tennessee’s Aquatic
+Nuisance Species, and references to information contained here, visit: https://
+www.tn.gov/content/dam/tn/twra/documents/invasive-species/Tennessee-Aquatic-
+Nuisance-Species-Management-Plan.pdf
+Alewife (Alosa pseudoharengus)
+Other names: shad, herring, bigeye herring
+The alewife is native to the Atlantic coast from South Carolina to Newfound-
+land. Many landlocked populations have been established or introduced into about
+twenty states, including Tennessee. Most introductions have been intentional for use
+as a forage species. In Tennessee, they were initially stocked into Dale Hollow and
+Watauga reservoirs, but can now be found in several reservoirs located downstream.
+There have also been illegal introductions of this species into Norris and possibly
+other Tennessee reservoirs.
+Alewife feed primarily on microscopic plants and animals (zooplankton), but oc-
+casionally on fish eggs and small fish. Most alewife average between 2 and 6 inches,
+but can measure up to 12 inches in length, though these are seldom seen by anglers.
+Alewife introductions have had negative impacts on reservoir fisheries in several
+states, including walleye populations in Tennessee. Alewife and blueback herring
+(next page) feed on the eggs and recently-hatched walleye young. Also, both alewife
+48
+
+-- 52 of 80 --
+
+TWRA Staff
+U.S. Geological Survey
+and blueback herring produce thiaminase, an enzyme that destroys thiamine, a cru-
+cial enzyme for egg development and survival of many native fish.
+Blueback Herring (Alosa aestivalis)
+Other names: blue herring, shad
+Blueback herring are native to the Atlantic coast from Novia Scotia to Florida.
+Landlocked populations have been introduced in several states, including Tennessee,
+where it was first collected from Melton Hill reservoir in 1998. Since then, it has been
+found in Tellico and Boone reservoirs. Introductions into these systems is thought to
+have been by anglers using live bait or intentional stocking as a forage species.
+Because they feed primarily on plankton, they are most likely to be found in open
+water near the surface. They are also known to eat fish eggs. Adults reach lengths up
+to 12-14 inches, although they average 4-8 inches.
+This species has had negative impacts on reservoir fisheries in several states, with
+introductions coinciding with decreased abundance of black crappie, largemouth
+bass, and white bass.
+Asian Swamp Eel (Monopterus albus)
+Other names: Asian rice eel, ricefield eel,
+rice paddy eel
+The Asian swamp eel is native to Asia and possi-
+bly Northeast Australia. It was introduced to Hawaii
+prior to 1900, presumably by Asian immigrants as a
+food fish. It has also been introduced to several wa-
+terways in Florida and Georgia.
+This eel, with its elongated, snake-like body and
+small eyes, can grow to 3 feet and weigh up to one
+pound. Swamp eels feed on land and in the water
+where they are voracious predators. Food items in-
+clude aquatic insects, mollusks, freshwater shrimp,
+crayfish, snails, frogs and fish. They are highly mo-
+bile and may travel considerable distances over land
+to find new feeding and breeding areas. The swamp
+eel may resemble our native American eel (page 40),
+49
+
+-- 53 of 80 --
+
+TWRA Staff
+female
+male
+but the swamp eel has no fins.
+Detrimental impacts of the swamp eel in Tennessee are currently unknown, but
+because they are generalized predators, they have the potential to pose serious eco-
+logical impacts to native fauna, including fish, frogs, and aquatic invertebrates.
+Brook Stickleback (Culaea inconstans)
+Other name: five-spined stickleback
+The brook stickleback is native to the Atlantic and Arctic drainages from Nova
+Scotia to the Northwest Territories, Great Lakes, Mississippi River basins south to
+southern Ohio and New Brunswick, and west to Manitoba and East British Colom-
+bia.
+Occurrences outside of its native range have been recorded in 12 states, including
+Tennessee. Introductions have resulted through escape from hatcheries, contami-
+nated sport fish stockings, and bait bucket releases. This species commonly occurs in
+shipments of bait minnows from the Midwest, usually mixed with fathead minnows
+(see page 46). Brook sticklebacks reach a maximum size of 3.5 inches, and occupy
+streams, swamps, and vegetated bays of lakes. Their diet includes small crustaceans,
+insect larvae, snails, leeches and fish eggs.
+Impacts of this species on native fauna are largely unknown, although it has been
+noted that it preys on fish eggs and is aggressive.
+50
+
+-- 54 of 80 --
+
+silver carp gill rakers
+bighead carp
+gill rakers
+Brian James
+Brian James
+TWRA Staff
+Bighead Carp (Hypophthalmichthys nobilis)
+Other name: Asian carp
+Silver Carp (Hypophthalmichthys molitrix)
+Other name: Asian carp,
+jumping carp
+The bighead and silver carp are large
+filter-feeding fish native to East Asia
+and China that were imported into Ar-
+kansas in the 1970s for use in aquacul-
+ture ponds to control plankton. By the
+early 1980s both species had escaped
+into the Mississippi River and its tribu-
+taries. They are now well established in
+the Mississippi River and its tributaries
+and are becoming more abundant in the
+Tennessee River system and parts of the
+Cumberland River system.
+They inhabit large river systems,
+lakes, and impoundments, often feed-
+ing in schools at the water’s surface. Be-
+ing filter-feeders, their diet consist of
+phytoplankton, detritus, zooplankton,
+and insect larva. Bighead carp can reach
+lengths of 3 feet and can weigh up to 100
+pounds, while the silver carp can weigh
+as much as 60 pounds. The state record
+for bighead carp is 90 pounds, and 31 pounds, 15 ounces for silver carp.
+51
+Silver carp gill rakers
+
+-- 55 of 80 --
+
+young specimens
+Doug Hardesty
+David Roddy
+Characteristic differences between adult big-
+head and silver carp:
+1) Bighead carp usually have dark blotches
+along the top (dorsal) area whereas the
+silver carp does not;
+2) The gill rakers (under the gill cover) of the
+bighead carp are comb-like, whereas the
+gill rakers of the silver carp are sponge-like
+(see page 51);
+3) Bighead carp have a smooth keel (ridge)
+that extends only partway along the belly
+from the vent, whereas on the silver carp
+the keel extends to the throat along the
+belly.
+Be aware that hybrids of these two species may
+exhibit characteristics of both species.
+The young of both bighead and silver carp (above) look similar to several species
+of native baitfish, such as gizzard and threadfin shad (see page 34), and could there-
+fore be spread through the use or release of live bait collected from infested waters.
+However, both native shad species have a dorsal filament, a dark circular spot behind
+the gill covers, and jagged (rough) keels on their bellies. The large, low-set eyes of
+these Asian carp may also help separate them from other native bait fish species.
+Because of their diet, both species may compete for food with native planktivores,
+including paddlefish, bigmouth buffalo, gizzard shad, many species of larval fish, and
+freshwater mussels. The silver carp can also leap up to 10 feet out of the water when
+disturbed by watercraft and may potentially cause human injury or fatality.
+Note that these two species, along with the black carp (below) cannot be pos-
+sessed or transported alive (see page 71).
+Black Carp (Mylopharyngodon piceus)
+Other names: snail carp, black amur, Chinese roach
+The black carp is native to rivers of East Asia and was first brought into the U.S.
+in the early 1970s and again in the 1980s as a food fish and as a biological control of
+parasite carrying snails in aquaculture ponds.
+52
+
+-- 56 of 80 --
+
+David Roddy
+The black carp has been found in the Tennessee portion of Mississippi River since
+2014 and recent collections have documented their presence in Mississippi River
+tributaries, Reelfoot Lake, and Kentucky Reservoir (TN River). Their diet consists
+mainly of snails and mussels, but they will also eat freshwater shrimp, crayfish, and
+insects. They can grow to lengths greater than 4 feet and weigh more than 80 pounds.
+The black carp can compete for food with native fish species and has the potential
+to seriously impact native mussel and snail populations, many of which are threat-
+ened or endangered.
+Grass Carp (Ctenopharyngodon idella)
+Other names: white amur, amur, carp
+Like the previous three Asian carp, the grass carp is native to several large rivers of
+East Asia, and has been widely introduced across the U.S. into small ponds and lakes
+for the purpose of controlling aquatic vegetation. Grass carp were first imported to
+the U.S. in 1963 for research on their use as a control for nuisance aquatic vegetation.
+Grass carp are found throughout the state, usually in small ponds and lakes. They
+are also often found in rivers and lakes where they have escaped from stocked ponds.
+In Tennessee, only triploid (sterile) grass carp are legal to stock into private ponds
+and small lakes for control of aquatic vegetation.
+Grass carp are capable of surviving in all but the smallest ponds and can tolerate
+a wide range of temperatures. This transplant feeds on most forms of aquatic veg-
+etation and will even eat terrestrial vegetation that comes in contact with the water.
+They are rarely caught by anglers, but when caught, they average about 20 inches,
+with a range of 10-36 inches. They can reach lengths greater than 4 feet and can
+weigh over 50 pounds. The state record is 70 pounds.
+Grass carp have been known to clean entire lakes of all aquatic plants and then
+consume organic detritus and animal material. Negative impacts on native fauna
+include competition for food with invertebrates and fish, along with changes in the
+composition of the aquatic plant, phytoplankton, and invertebrate communities.
+They can also cause enrichment and eutrophication of ponds and lakes when they
+expel undigested plant material.
+53
+
+-- 57 of 80 --
+
+Brian James
+TWRA Staff
+snout of an inland
+silverside
+Eric Ganus
+Common Carp (Cyprinus carpio)
+Other names: carp, Israeli carp, mirror carp, leather carp, buglemouth
+Common carp are not native to North America and were introduced into the
+Northeast in the late 1800s. Since then, they have expanded their range to every
+state, except Alaska. Common carp inhabit ponds, lakes, reservoirs, streams and riv-
+ers, and can flourish in muddy waters with low dissolved oxygen and high water
+temperatures.
+The common carp has a barbel on each side of the upper jaw, which helps distin-
+guish it from other carp-like species.
+Carp will eat any plant or animal matter found on the stream or lake bottom. Im-
+portant foods are plants, small crustaceans, and worms. Carp are abundant through-
+out the state and average 15 inches in length with a range of 10-32 inches, and can
+weigh over 50 pounds. The state record is 53 pounds.
+Genetic strains are frequently seen that have only a few large scales (“mirror
+carp”), or lack scales entirely (“leather carp”). Large numbers of common carp are
+caught and sold annually by commercial fishers and are considered a sportfish in
+other parts of the world.
+The common carp stirs up the bottom during feeding, resulting in increased silt-
+ation and turbidity which can degrade clean substrates (needed for fish spawning),
+smother fish eggs, and destroy rooted aquatic plants that may provide habitat for
+native fish species.
+Inland Silverside (Menidia beryllina)
+Other names: silverside, pin minnow
+54
+
+-- 58 of 80 --
+
+Dave Jude
+The inland silverside is native to coastal and freshwater habitats from Massachu-
+setts to Mexico, inland up the Mississippi River to Illinois, including the Arkansas
+and Red Rivers. It has been introduced outside of its native range in about 6 other
+states, where it was intentionally stocked as forage for sport fish in most locations. In
+Tennessee, this species has expanded from the western part of the state to invade the
+Cumberland and Tennessee river systems, and may be expanding by natural disper-
+sion.
+Inland silversides average from 3-4 inches, to a maximum of about 5.5 inches,
+with a diet consisting of midge larvae, small insects, and zooplankton. It is similar in
+appearance to the brook silverside, but the inland silverside does not have a beak-like
+snout (see brook silverside, page 42). In addition, the scales on an inland silverside
+are easily seen with the naked eye.
+Introduced populations of inland silverside in some states have displaced or re-
+placed several other fish species, including brook silversides, through competition
+for food. The effect of the inland silverside invasion on native aquatic fauna in the
+Cumberland and Tennessee rivers is currently unknown, and more time is needed to
+fully understand the impact it may have on brook silverside populations.
+Round Goby (Neogobius melanostomus)
+The round goby is native to marine and freshwater environments in Eurasia. First
+discovered in 1990 in Canada, they were introduced into the Great Lakes by way of
+transoceanic freighter ballast water from the Black and Caspian seas.
+Round gobies are not currently present in Tennessee, but have access to America’s
+largest watersheds, including the Mississippi River. Being a bottom-dwelling fish,
+gobies prefer rocky or gravel substrates, and are voracious feeders, eating small fish,
+fish eggs, aquatic insects, and exotic zebra mussels (page 64). They average 3-6 inches
+in length. Round gobies look similar to our native sculpins (page 46), but the goby
+has fused pelvic (bottom) fins, whereas our native sculpins have separate pelvic fins.
+Being such an aggressive fish with voracious feeding habits, round gobies may af-
+fect native species such as sculpins, darters, or other bottom-dwelling fish through
+competition for habitat and food. They may also impact game fish populations by
+feeding upon the eggs of nest spawners such as smallmouth bass.
+55
+
+-- 59 of 80 --
+
+Jim Grazio
+Steffen Zienert
+Rudd (Scardinius erythrophthalmus)
+Other name: redfin
+The rudd is native to Europe and Central Asia and was initially introduced to the
+U.S. as an ornamental fish in the early 1900s. More recently, this species has been
+reared by fish farmers and sold as bait in several states, and bait bucket releases are
+probably the primary method of introduction. The rudd has not been found in Ten-
+nessee, but has been introduced into about 20 other states, including the neighbor-
+ing states of Alabama, Arkansas, and Missouri.
+Adult rudd are commonly 8-12 inches long and feed on zooplankton, aquatic in-
+sects, plants, algae, crustaceans, and occasionally, small fish and fish eggs. The rudd
+resembles our native golden shiner (page 41), but the rudd has a scaled keel on the
+midline of the belly and adults have bright red fins.
+The impact of the introductions of this species on native species is largely un-
+known. It has been shown that rudd and golden shiner are capable of hybridizing in
+a laboratory, and this could result in genetic integrity implications to native golden
+shiner populations. Additionally, the rudd competes with native fish for invertebrate
+food sources.
+Ruffe (Gymnocephalus cernuus)
+Other names: Eurasian ruffe, pope
+The ruffe is native to France, England, most of Siberia, and the Baltic Sea. It was
+first collected in North America in 1986 from the St. Louis River at the border of
+Minnesota and Wisconsin. It is mainly found in and around the Great Lakes region
+56
+
+-- 60 of 80 --
+
+U.S. Geological Survey
+of the U.S. Like many others, this species was probably unintentionally introduced
+with discharged ballast water from ships.
+Adult ruffe average 5-6 inches, but can reach lengths up to 10 inches. The majority
+of its diet consists of benthic aquatic invertebrates, and it is known to eat fish eggs.
+In some areas where the ruffe has been introduced, it has quickly become the domi-
+nant species, comprising an estimated 80 percent of fish abundances. Several native
+species have declined since the introduction of this fish into the Great Lakes region,
+which suggests that ruffe compete for food with native benthic-feeding fishes.
+Snakehead (Channa and Parachanna spp.)
+The Northern snakehead, one of
+approximately 30 species of snake-
+heads, is native to parts of Asia and
+Africa. The first report of this fish in
+the U.S. came from California in 1997,
+and has since been found in about 10
+other states, including Arkansas and
+Mississippi. In Tennessee, a dead giant
+snakehead was found in a small lake
+in West Tennessee in 2005. They were
+typically introduced into these states
+when live fish purchased for food or
+for aquariums were released into pub-
+lic waters. It is illegal to possess live
+snakeheads in Tennessee.
+Snakeheads inhabit small to large
+streams, rivers, ponds, reservoirs, and
+lakes, and are often found in shallow
+areas where there is aquatic vegeta-
+tion. Juvenile snakeheads eat zooplank-
+ton, insect larvae, small crustaceans, and small fish, whereas adults become voracious
+predators consuming fish, crustaceans, frogs, reptiles, small birds, and mammals.
+Many species can attain a size up to about 35 inches in length.
+Snakeheads look similar to our native bowfin (page 39), except snakeheads have:
+1) pelvic fins close to the gills, 2) an elongated anal fin and 3) no bony plate under the
+throat between the jaws. Both of these species have small teeth in the mouth.
+57
+
+-- 61 of 80 --
+
+TWRA Staff
+female
+male
+All reports of snakeheads caught by anglers in Tennessee thus far have been bow-
+fins, but TWRA encourages anyone who thinks they may have caught a snakehead
+to keep it and contact the TWRA Fisheries Division.
+The predatory nature of snakeheads indicates that their introduction could nega-
+tively impact populations of native fishes through direct predation, competition for
+food resources, and alteration of food webs. If so, the impacts to recreational fishing
+could be substantially detrimental over time.
+Western Mosquitofish (Gambusia affinis)
+Eastern Mosquitofish (Gambusia holbrooki)
+Other name: Gambusia
+The western mosquitofish was probably native to the coastal plain from West Ala-
+bama northward to southern Illinois, and westward into East Mexico where the ex-
+tent of its range is uncertain. It is native to mainly West Tennessee, but has expanded
+eastward by a combination of natural dispersal and undocumented introductions.
+The eastern mosquitofish is native to the Atlantic and Gulf Coast Slope drainages
+as far west as East Alabama. Exact determination of the native range is difficult be-
+cause these two species have been widely stocked by humans as a biological control
+for mosquitoes. They have been stocked in at least 36 states outside of their known
+native range.
+Both species are very similar in appearance, and have an upturned mouth, allow-
+ing them to be an effective surface feeder. They feed on aquatic and terrestrial in-
+sects, microcrustaceans, snails, fish eggs, and larval fish, including their own young.
+Females reach lengths of 2.5 inches, while adult males are smaller and only attain a
+length of 1.5 inches.
+Although mosquitofish prey on mosquito larvae and are widely introduced as
+mosquito control agents, review of the literature on mosquito control has not sup-
+ported the view that mosquitofish are effective in reducing mosquito populations.
+Mosquitofish introductions can lead to algal blooms when they eat zooplankton
+grazers or cause an increase in mosquitoes if they eat invertebrate predators. Mos-
+quitofish are also extremely aggressive and can affect native fishes through direct
+58
+
+-- 62 of 80 --
+
+Carl Williams
+Andre Karwath
+competition and often attack, kill, or eat other fish. The biggest negative impact of
+mosquitofish is on the federally endangered Barrens topminnow (Fundulus julisia)
+in Tennessee due to their predation of topminnow eggs and larvae.
+Kentucky River Crayfish (Faxonius juvenilis)
+Other name: rusty crayfish
+The Kentucky River cray-
+fish is native to tributaries
+of the Ohio River in south-
+western Ohio, northern Ken-
+tucky, and southeast Indiana.
+It has been spread primar-
+ily through bait bucket releases
+and in Tennessee, has been collect-
+ed in the Clinch, Holston, Nolichucky, and
+Tellico rivers.
+Kentucky River crayfish inhabit lakes, ponds, streams, and rivers, and utilize
+rocks, logs, or other debris for cover. They feed on a variety of aquatic plants and
+invertebrates, clams, fish eggs, and small fish, and can reach 4 inches long.
+When introduced, negative impacts of this crayfish include destruction of aquatic
+vegetation, direct competition with native crayfishes, and predation on other aquatic
+species.
+Marbled Crayfish (Procambarus fallax f. virginalis)
+Other name: Marmorkrebs
+59
+
+-- 63 of 80 --
+
+Distinguishing mark:
+a rusty/red circular spot on the cephalothorax
+Carl Williams
+The marbled crayfish is a parthenogenetic crayfish, a form consisting of only fe-
+males which are capable of producing offspring with unfertilized eggs. The origin of
+this unusual form is not certain, but most biologists agree it was probably derived
+from captive populations of the slough crayfish (Procambarus fallax). A native spe-
+cies to Florida and southern Georgia, the slough crayfish is a popular species in the
+pet trade industry, through which it has been distributed to aquarium enthusiasts
+around the world. Although no wild populations of the marbled crayfish have been
+documented in the United States to date, it has become established in several other
+countries.
+Because of its ability to establish a wild population from the release of a single
+specimen, wildlife managers consider it an extremely high risk invasive species with
+a potential of causing harm to native aquatic organisms.
+Rusty Crayfish
+(Faxonius rusticus)
+The rusty crayfish is native to the Ohio River system in Kentucky, Ohio, and Indi-
+ana, and the Lake Erie drainage in Michigan and Ohio. Primarily through bait buck-
+et releases, it has been introduced into at least 20 additional states including two
+sites in Tennessee; the German Creek embayment of Cherokee Reservoir (Grainger
+County), and Little Creek in the city of Bristol (Sullivan County).
+Like most crayfish species, the rusty crayfish is omnivorous, feeding on a variety
+of food items, including aquatic plants and algae, small insects, crustaceans, and
+snails. Dead or dying fish and other forms of carrion are also consumed. The rusty
+crayfish can reach lengths up to 4 inches and typically has a life span from 2-3 years.
+Because of its aggressive behavior and ability to adapt to a variety of aquatic habi-
+tats from small streams to large rivers, and even reservoirs, the rusty crayfish can
+quickly expand its range causing negative impacts to native aquatic organisms in-
+cluding our native crayfish and fish species.
+60
+
+-- 64 of 80 --
+
+Carl Williams
+U.S. Geological Survey
+Virile Crayfish (Faxonius virilis)
+Other name: Northern crayfish
+The virile crayfish is native as far north as Hudson Bay. Southward, it occurs from
+New England to western Montana and through the Missouri, Mississippi and Ohio
+River basins to Oklahoma and northern Arkansas. It has been widely introduced
+outside its native range and, in Tennessee, this species has been introduced to the
+Nolichucky, French Broad, and Holston river systems, as well as a tributary to Watts
+Bar Reservoir. It is well established in Douglas Reservoir and its tributaries. Most
+introductions have probably been the result of bait bucket releases.
+The virile crayfish is large, with adults ranging from 2-5 inches, and can be found
+in rivers, streams, and ponds with abundant cover such as rocks, logs, or deposits of
+organic debris.
+Negative impacts include destruction of aquatic vegetation, direct competition
+with native crayfish, possible hybridization, and predation on other aquatic species.
+Asian Clam (Corbicula fluminea)
+Other name: corbicula
+The Asian clam is native to China, Korea and
+Russia. It was first collected in the U.S. in 1938
+from the Columbia River in Washington State. It is
+now found in at least 38 states, including Tennes-
+see, where it is found in almost every river and res-
+ervoir, with the exception of a few creeks and streams
+in the Blue Ridge and on the Cumberland Plateau.
+This species is thought to have entered the U.S. as a food
+item used by Chinese immigrants. Current methods of introduction include bait
+bucket releases, introductions by people who buy them as a food item in markets,
+and by natural dispersion of their free-swimming larvae.
+The Asian clam is a small, filter-feeding bivalve that rarely exceeds 1.5 inches in
+length, and occupies silt, sand, and gravel substrates in creeks, rivers, reservoirs, and
+ponds.
+61
+
+-- 65 of 80 --
+
+U.S. Geological Survey
+U.S. Geological Survey
+The greatest ecological impact of this species’ introduction is competition for
+habitat and food with our native mussel species, many of which are threatened or
+endangered.
+Channeled Apple Snail (Pomacea canaliculata)
+The channeled apple snail is widely distributed in
+South America, and has been introduced through-
+out Southeast Asia where it has become a major crop
+pest, particularly in rice fields. Introductions in the
+U.S. (through aquarium releases) have been detected
+in about eight states but not in Tennessee. However,
+they have been found in the neighboring states of Ala-
+bama and Georgia.
+The channeled apple snail is a large globular snail that can
+reach lengths greater than 3.5 inches. This species is a voracious
+herbivore and will consume almost any plant. It is a major crop
+pest and poses a serious threat to many wetlands around the world
+through potential habitat modification and competition with native species.
+Chinese Mystery Snail (Cipangopaludina chinensis)
+Other names: Asian mystery snail, Chinese apple snail,
+Asian apple snail
+The Chinese mystery snail is native to Southeast
+Asia, Japan, and East Russia. This species has become
+widespread in scattered locations and is often found
+in ponds, streams, or lake margins where there is
+vegetation and a soft substrate.
+This snail was first found in California Chinese
+markets in 1892. It is now established on the West and
+East coasts, the Great Lakes region, and some of the Gulf
+states. In Tennessee, it has been found in a lake in Nashville
+and a pond in Hawkins County.
+Chinese mystery snails can reach 2.5 inches in length and feed
+on algae such as diatoms, phytoplankton, and detritus. This species can serve as a
+vector for various parasites and diseases which can infect humans and they compete
+with native snails for food and space.
+62
+
+-- 66 of 80 --
+
+U.S. Geological Survey
+U.S. Geological Survey
+David Roddy
+New Zealand Mud Snail (Potamopyrgus antipodarum)
+The New Zealand mud snail is native to freshwater
+streams and lakes of New Zealand and was first discov-
+ered in the U.S. in the Snake River in Idaho in 1987.
+They are now established in about 10 western states,
+and their rapid range expansion is probably the re-
+sult of snail hitchhikers attached to boots, wad-
+ers, nets, and other equipment. This snail is a
+very small aquatic snail ranging from less than ¼
+inch up to ½ inch in length. It feeds on diatoms
+and plant and animal detritus.
+In suitable habitats, this snail can reach high
+densities (greater than 100,000/m2), and has
+been shown to drastically alter primary pro-
+duction in some streams in western states. Cer-
+tain types of aquatic invertebrates (mayflies,
+stoneflies, and caddisflies) which are primary
+foods for trout, darters, and young fish, also
+appear to be declining in abundance in some
+western states. Introductions of this snail may
+also have implications to native snails through
+direct competition.
+Zebra Mussel (Dreissena polymorpha)
+Zebra mussels are native to the Black,
+Caspian and Azov seas, and were first
+discovered in North America in 1988 in
+the Great Lakes. The release of larval ze-
+bra mussels during the ballast water ex-
+change of commercial cargo ships trav-
+eling from the Black Sea to the Great Lakes
+is thought to be the way it was introduced.
+By 1992, zebra mussels were established in
+many rivers south of the Great Lakes including the
+Cumberland, Mississippi, and Tennessee rivers. Ze-
+bra mussels are small, reaching a maximum length of
+about 1.5 inches, and feed primarily on algae by filter-
+feeding.
+While the harmful impacts of zebra mussels are many,
+they are notorious for colonizing and constricting water flow to hydro-electric and
+nuclear power plants, public water supply plants, and industrial facilities. Fishing
+gear and boats can become colonized and fouled if left in the water for long periods,
+while deterioration and corrosion of steel and concrete structures can also occur.
+63
+
+-- 67 of 80 --
+
+Tyler Baker
+Chris Evans
+Zebra mussels also colonize on our native freshwater mussels, many of which are
+endangered. Once attached to native mussels, zebra mussels restrict valve operation,
+cause shell deformity, smother siphons, compete for food, and impair movement.
+Didymo (Didymosphenia geminata)
+Other names: rock snot
+Didymo is a single-celled freshwater
+diatom that can be identified under a mi-
+croscope by its bottle-like shape. It is very
+large in size, compared to other diatoms.
+Didymo cannot be observed by the naked
+eye until large colonial masses are formed.
+Large colonies of didymo cover the
+bottom of rivers appearing like a felt car-
+pet, tufted masses, or even a white strand
+of toilet paper. Colonies of didymo are white to brown and not slippery to the touch,
+but rather feel more like wet wool. Didymo is native to North America, but only
+recently has it taken on characteristics of an invasive species. Many of these blooms
+are located at popular trout fisheries, suggesting that anglers are a likely vector for
+the spread of this diatom.
+In Tennessee, the known distribution of didymo is the Clinch River below Norris
+Dam, South Holston River below South Holston Dam, Watauga River below Wilbur
+Dam, Holston River below Cherokee Dam, and Obey River below Dale Hollow Dam.
+Ongoing research seeks to identify effective control methods, biological effects,
+and environmental factors contributing to blooms.
+Anglers do not like didymo because it will foul their fishing tackle and possibly
+reduce the number of fish available to catch, although this has not been documented
+in Tennessee waters. Blooms also degrade the aesthetics of rivers.
+Eurasian watermilfoil (Myrophyllum spicatum)
+Other name: milfoil
+Eurasian watermilfoil is a submersed,
+bottom-rooted perennial, generally with
+multiple stems that arise from the root
+crown. Stems are branched with the leaves
+typically in whorls of four, each “feather-
+like,” ¾-1½ inches long with 12-24 finely
+dissected segments on each side of a cen-
+tral axis. Male and female flowers are on
+an emergent spike that extends a few inch-
+es above the surface of the water.
+Although Eurasian watermilfoil forms viable seeds, its primary method of spread
+is by fragmentation. Fragments may be formed by mechanical breakage associated
+64
+
+-- 68 of 80 --
+
+David Roddy
+Chris Evans
+with boat traffic, flow and wave action
+and by auto fragmentation that occurs
+after flowering and also near the end of
+the growing season. It begins its growth
+earlier in the growing season than most
+other species of submersed macrophytes
+and branches near the surface to form a
+dense canopy that prevents light penetra-
+tion and functions to exclude other spe-
+cies of submersed plants.
+In Tennessee, this species is established primarily in reservoirs of the Tennessee
+River system at depths up to 12 feet. It adversely impacts boating and various types
+of water-based recreation, restricts access to ramps and other facilities, and reduces
+the aesthetic value in areas of developed shoreline.
+The native range of Eurasian watermilfoil includes Europe, Asia, and North Af-
+rica. It was introduced into the United States in the early 1940s. This species is now
+widespread in the eastern United States, ranging westward from the New England
+states to Minnesota and southward to Florida and Texas. There are also populations
+in Arizona, California, Oregon and Washington. In Tennessee, Eurasian watermilfoil
+occurs in Kentucky, Nickajack, Chickamauga, Watts Bar, Fort Loudoun, Tellico, and
+Melton Hill reservoirs.
+Eurasian watermilfoil primarily spreads from waterbody to waterbody by frag-
+ments on boat trailers and propellers of motors. Once established within a water-
+body or drainage, watermilfoil can rapidly spread by fragments that are dispersed by
+flow and wave action.
+Hydrilla (Hydrilla verticillata)
+Hydrilla is a submersed, rhizomatous,
+bottom-rooted perennial with branching
+stems. Small, pea-like tubers .25-.50 inches
+long form at the ends of spreading rhi-
+zomes in bottom sediments. Leaves along
+lower stems are opposite or in whorls of 3
+with the number of leaves in whorls typi-
+cally increasing to 5-7 along the upper por-
+tion of stems. Leaves have toothed margins
+and small spines along the mid vein on the
+underside. Two forms of hydrilla are found
+in Tennessee: a dioecious form that has
+male and female flowers on separate plants
+and a monoecious form that has male and
+female flowers on the same plant.
+Hydrilla spreads primarily by fragmen-
+tation and can survive drawdowns and
+65
+
+-- 69 of 80 --
+
+other adverse conditions as a tuber. Stems of hydrilla branch near the water surface
+and form a dense canopy that can “shade out” other species of submersed plants.
+Because hydrilla has a lower light requirement than most other species of submersed
+plants, it grows at greater depths and has been observed to reach the surface in 15
+feet of water. Hydrilla has replaced Eurasian watermilfoil in many areas and contin-
+ues to expand into habitat formerly colonized by Eurasian watermilfoil.
+Because hydrilla can form dense surface mats, has a very high biomass, and pro-
+duces large numbers of fragments, it can harm the aesthetics of waterways and nega-
+tively impact boating and other types of water-based recreation. It can affect water
+quality and clog screens at water intakes.
+In Tennessee, it grows in reservoirs, rivers, springs, ponds, canals and small lakes.
+It is well-established in Chickamauga, Nickajack, Pickwick, and Kentucky reservoirs
+and in some watershed lakes near Reelfoot Lake.
+The primary method for the spread of hydrilla from one waterbody to another is
+by fragments on boat trailers and propellers of motors. Once established within a
+waterbody, hydrilla can rapidly spread by fragments that are dispersed by flow and
+wave action. Hydrilla can also be spread as an aquarium plant or as a contaminant
+growing with other aquatic species that are sold as ornamentals for water gardens.
+Spiny-leaf naiad (Najas minor)
+Other name: brittle naiad
+Spiny-leaf 	naiad 	is
+a submersed, bottom-
+rooted 	annual, 	with
+a 	bushy 	appearance
+as a result of profuse
+branching from the up-
+per portion of the stem.
+The leaves are opposite
+to 	subopposite, 	stiff
+and recurved in the late
+growing season, 0.25-
+1.5 	inches 	long 	and
+about a 0.25 of an inch
+in width. Leaf margins
+have 7-15 conspicuous teeth per side and an expanded sheath at the base of each
+leaf. Male flowers and female flowers are on the same plant, the fruit that is produced
+is greenish and slightly curved. The seeds, one per fruit, also are slightly curved, 0.75-
+1.25 inches long with rectangular areolae in longitudinal rows.
+Spiny-leaf naiad is an annual species that regrows from seed and is most com-
+mon in reservoirs and ponds. Because the spiny-leaf naiad regrows from seed, it is
+adapted to colonization of drawdown zones of reservoirs that are dewatered dur-
+ing the winter months. The seed tolerates drying and freezing conditions that often
+eliminate perennial species that regrow from underground vegetative parts.
+66
+
+-- 70 of 80 --
+
+ALWAYS:
+DRAIN BAIT BUCKET WATER ON LAND
+DISPOSE OF UNWANTED BAIT IN THE TRASH
+WWW.TNWILDLIFE.ORG
+Because spiny-leaf naiad grows in shallow water areas in dense colonies, it can ad-
+versely impact water quality and various types of water-based recreation and access
+to ramps and other facilities in areas of developed shoreline. During the late summer
+months, spiny-leaf naiad undergoes a natural “breakup” and stems with leaves float
+to the surface to form dense, free-floating mats that frequently become covered with
+algae and produce a smelly odor.
+This species was introduced into the United States by shipping or possibly as an
+aquarium introduction. It is widespread in the eastern United States from Illinois to
+New York, south to Florida and west to Arkansas. Spiny-leaf is widely distributed in
+Tennessee. All of the main stem TVA reservoirs along the Tennessee River have, or
+in the past, have had populations of this species.
+Once established in a waterbody, spiny-leaf can spread by seed that remains at-
+tached in the leaf axils of floating fragments. Seed in the substrate may also be car-
+ried and moved to other areas by flow and wave action or by waterfowl feeding on
+them. As is the case with most submersed plants, fragments on boat trailers and
+propellers of motors are another means of spread.
+67
+
+-- 71 of 80 --
+
+Howard Jelks
+Fish As Pets
+Many people enjoy having fish and other aquatic life in aquariums, backyard
+ponds or water gardens. Part of the responsibility for having these “artificial environ-
+ments” is to know that some fish and aquatic plants require specialized conditions
+and many can outgrow the size of the aquarium or water garden. Whatever the situ-
+ation, whether the family gets tired of the fish or they outgrow the available space, it
+is important to never release these fish into the natural environment.
+It is important to never dump any aquatic plants or water from the aquarium or
+water garden into or near any body of water or storm drain. While many of these
+organisms will die, some will be able to survive. Those that survive have the potential
+to create negative impacts on our natural environment and native species. Because of
+these potential impacts, it is illegal for anyone to stock or release any plant or animal
+into the public waters of the state.
+For more information about prevention, impacts, and disposal of unwanted
+aquatic life, visit www.habitattitude.net.
+Some of the more common fish species that are sold as pets and that have been
+caught by anglers in Tennessee are discussed below.
+Oscar: (Astronotus ocellatus)
+A native of South America, the oscar is a fish species in the aquarium trade that
+has been caught or reported in Tennessee and in at least 19 other states or U.S. ter-
+ritories. Although established in Florida since the late 1950s as a result of a fish farm
+release, they have recently been reported by anglers in Tennessee. It is believed their
+presence is the result of illegal releases/stockings by aquarium owners. Wild caught
+oscars are normally dark in color with one or more orange-ringed spots (or ocelli)
+near the tail fin and/or the dorsal fin.
+Oscars commonly grow to 9-14 inches in length with a weight over 2 pounds, and
+feed on fish, crayfish, worms, and insect larvae. Although the impact of oscars on
+native species is unknown at this time, the hope is they will not survive once water
+temperatures drop below their lethal limit of approximately 53 F.
+68
+
+-- 72 of 80 --
+
+Dustin Myles
+Pacu: (Myleus and Colossoma spp.)
+Pacu, a common aquarium species that
+is closely related to (and looks like) the pi-
+ranha, is occasionally caught by anglers in
+Tennessee. As in most cases in Tennessee,
+their presence is a result of illegal releases by
+aquarium owners. A native of South Ameri-
+ca, the pacu can easily outgrow their aquar-
+ium space since they can reach two feet or
+more in length. For this reason, they are not
+recommended for most aquarium owners.
+Pacu mainly eat seeds, nuts and vegeta-
+tion in the wild, and being a tropical fish, it is
+believed they will die when exposed to cold
+water temperatures (unless they inhabit a
+thermal refuge such as a steam plant). How-
+ever, if released during the summer, pacu
+may survive temporarily and may compete
+with native species for habitat or introduce
+exotic parasites or diseases into the environ-
+ment.
+In addition to attaining a larger size, pacu have square, human-like teeth, some-
+times in a double row, with a slight underbite, whereas piranha have pointed, sharp
+teeth with a heavy underbite. Most piranhas normally attain a length up to 10-12
+inches, although some species may grow larger. To add to the confusion, one of the
+common aquarium species of pacu is the red-bellied pacu, while a common aquari-
+um species of piranha is the red-bellied piranha.
+69
+
+-- 73 of 80 --
+
+Brian James
+Redtail Catfish: (Phractocephalus hemioliopterus)
+As with the previous two species, the redtail catfish is a native of South America.
+In 2010, a couple of specimens were reported to have been caught from the Cumber-
+land River and may be the result of either a release from an aquarium or escapement
+from backyard ponds during the Nashville flood in May 2010.
+The impacts of the redtail catfish on native fish species is unknown, although they
+are very predacious and will eat anything they can get in their mouth. This tropi-
+cal fish should not survive Tennessee winters. However, steam plants could provide
+thermal refuges. Because they get very large (up to 2-3 feet or more, and over 50
+pounds) and will eat about any fish smaller than themselves, redtail catfish are not
+suitable for most aquarium owners.
+Again, instead of illegally releasing fish or other aquatic animals or plants into
+public waters of the state, aquarium owners should review the information at www.
+habitattitude.net for advice on disposing of unwanted aquarium species.
+Illustration © Department of Primary Industries and
+Regional Development, Western Australia
+Don’t
+dump
+that
+fish!
+Help keep
+aquarium fish
+where they belong.
+
+-- 74 of 80 --
+
+DO NOT USE LIVE ASIAN CARP FOR BAIT
+Bighead and silver carp are illegal to
+possess alive. Shad are legal bait fish.
+The easiest way to tell them apart is to look
+at the dorsal (top) fin. Both shad have a long,
+thread-like fin that extends toward the tail.
+Asian carp do not have this thread-like fin.
+Aquatic Animals Prohibited
+In Tennessee
+It is unlawful to possess or transport live specimens of the following animals in
+Tennessee:
+Blueback Herring: (Alosa aestivalis) ......................................................................49
+Swamp Eels: (all members of the Family Synbranchidae) ...................................49
+Bighead Carp: (Hypophthalmichthys nobilis) .......................................................51
+Silver Carp: (Hypophthalmichthys molitrix) .........................................................51
+Black Carp: (Mylopharyngodon piceus)..................................................................52
+Round Goby: (Neogobius melanostomus) ..............................................................55
+Rudd: (Scardinius erythrophthalmus) .....................................................................56
+Ruffe: (Gymnocephalus cernuus) ............................................................................ 56
+Snakehead: (all members of the Family Channidae)............................................57
+Marbled Crayfish (Marmorkreb): (Procambarus fallax f. virginalis) ............ 59
+New Zealand Mud Snail: (Potamopyrgus antipodarum) ..................................63
+Zebra Mussel: (Dreissena polymorpha) .................................................................63
+Live Bait Regulations
+Tennessee has live bait reg-
+ulations pertaining to which
+species can be used for bait,
+and how they can be har-
+vested, sold and transported.
+For the current live bait regu-
+lations pick up a copy of the
+Tennessee Fishing Guide wher-
+ever fishing licenses are sold
+or log on to the TWRA web-
+site at www.tnwildlife.org to
+review it.
+Under 	no 	circumstance
+shall live fish, crayfish, or sala-
+manders be intentionally re-
+leased into Tennessee waters
+away from the waters from
+which they were harvested.
+71
+
+-- 75 of 80 --
+
+Tennessee Angler Recognition
+Program & First Fish
+Anglers have a way to be acknowledged for their fishing accomplishments in the
+Volunteer State. The Tennessee Angler Recognition Program (TARP) is designed to
+acknowledge anglers who catch any of the current twenty-five species of fish that
+meet or exceed minimum trophy lengths, to encourage catch-and-release of trophy-
+size fish, and to provide the TWRA with information documenting large fish caught
+throughout the state.
+TARP should not be confused with the State Record Fish Program which recognizes
+anglers who catch a new state record fish (largest by weight for that species in the
+state). Instead, TARP recognizes anglers who catch trophy-size fish that are not neces-
+sarily state records.
+The First Fish Program recognizes and presents anyone catching their first fish in
+Tennessee a certificate for free.
+For further information about TARP, specific qualifications, qualifying species, an
+application form, along with information about the State Record Fish Program and
+the First Fish Award, consult the Tennessee Fishing Guide, the TWRA website, or call
+615-781-6575.
+72
+
+-- 76 of 80 --
+
+Further Reading
+For individuals interested in a more comprehensive list of fish and aquatic nuisance
+species, along with more detailed information concerning their description, life his-
+tory, habitat requirements and distribution, the following publications and websites
+are recommended. These sources were used in-part for information in this guide.
+Etnier, David A. and W.C. Starnes. 1993. The Fishes of Tennessee.
+The University of Tennessee Press, Knoxville. 681 pp.
+or view at: http://trace.tennessee.edu/utk_utpress/2/
+Pflieger, William L. 1975. The Fishes of Missouri.
+Missouri Department of Conservation, Jefferson City. 343 pp.
+Mettee, M.F., P.E. O’Neil, and J.M. Pierson. 1996.
+Fishes of Alabama and the Mobile Basin. State of Alabama. 820 pp.
+Page, Lawrence M. and Brooks M. Burr. 1991.
+A Field Guide to Freshwater Fishes of North America, North of Mexico.
+New York: Houghton Mifflin Co.
+Walls, Jerry G. 2009. Crayfishes Of Lousiana.
+Louisiana State University Press. 240pp.
+https://www.tn.gov/content/dam/tn/twra/documents/invasive-species/
+Tennessee-Aquatic-Nuisance-Species-Management-Plan.pdf
+http://www.invasivespeciesinfo.gov/aquatics/main.shtml
+http://www.twra4streams.homestead.com
+http://stopaquatichitchhikers.org
+http://explorer.natureserve.org
+www.fws.gov/fisheries
+http://www.fishbase.org
+http://www.invasive.org
+http://www.asiancarp.us
+http://www.aquatics.org
+http://www.tnfish.org
+http://nas.er.usgs.gov
+73
+
+-- 77 of 80 --
+
+Tennessee Wildlife Resources Agency
+All office Hours: 8:00 a.m. – 4:30 p.m.
+Monday – Friday (local time)
+Website: www.tnwildlife.org
+Central Office – Nashville
+Ellington Agricultural Center
+5107 Edmondson Pike, Nashville, TN 37211
+Nashville, TN 37204 ..........................................615-781-6500
+Boating Education/Safety .................................615-781-6566
+Boat Registration ................................................615-781-6522
+Director’s Office..................................................615-781-6552
+Fisheries Division ...............................................615-781-6575
+Information & Education ................................... 615-781-6502
+Law Enforcement ...............................................615-781-6580
+License Division .................................................615-253-5189
+Wildlife & Forestry Division ............................615-781-6610
+Telecommunications Device for the Deaf .....615-781-6691
+West Tennessee – Region I
+200 Lowell Thomas Drive
+Jackson, TN 38301 .............................................731-423-5725
+Toll Free............................................................1-800-372-3928
+Middle Tennessee – Region II
+Ellington Agricultural Center
+P.O. Box 41489
+Nashville, TN 37204 ..........................................615-781-6622
+Toll Free............................................................1-800-624-7406
+Cumberland Plateau – Region III
+464 Industrial Blvd
+Crossville, TN 38555 .........................................931-484-9571
+Toll Free............................................................1-833-402-4698
+East Tennessee – Region IV
+3030 Wildlife Way
+Morristown, TN 37814 .....................................423-587-7037
+Toll Free............................................................1-800-332-0900
+74
+
+-- 78 of 80 --
+
+YOU MAY BE MOVING MORE
+THAN YOUR BOAT!
+YOU CAN HELP STOP THE SPREAD
+OF AQUATIC HITCHHIKERS!
+Remove all visible
+plants, animals, fish,
+and mud from your
+boat, trailer, and
+other equipment.
+Drain water from
+bilge, live wells,
+and other areas
+that may collect
+water.
+Dry your boat, trailer,
+and all equipment
+completely. Drying
+times vary depending
+on weather conditions
+(minimum of 5 days).
+ INSPECT 	 DRAIN 	 DRY
+PROTECT TENNESSEE WATERS!
+WWW.TNWILDLIFE.ORG
+
+-- 79 of 80 --
+
+
+
+-- 80 of 80 --
+

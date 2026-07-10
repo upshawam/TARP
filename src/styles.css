@@ -36,6 +36,7 @@ nav button {
 nav button.active, nav button:hover { background: #2e4937; }
 
 .main-content { padding: 28px; max-width: 1240px; width: 100%; }
+.main-content.main-content-wide { max-width: 100%; }
 .page-header { margin-bottom: 22px; }
 .page-header h2 { margin: 0 0 6px; font-size: 30px; }
 .page-header p { margin: 0; color: #5f6d64; }
@@ -170,8 +171,165 @@ select, input[type="file"] {
 .cal-legend-label { font-size: 12px; color: #637067; margin-right: 2px; }
 .cal-legend-item  { padding: 3px 8px; border-radius: 6px; font-size: 11px; font-weight: 600; }
 
+.fish-gallery-layout {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.9fr) minmax(0, 2.1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+.fish-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(clamp(160px, 14vw, 250px), 1fr));
+  gap: 12px;
+}
+
+.fish-tile {
+  border: 1px solid #e4dfd1;
+  border-radius: 12px;
+  background: #fcfbf7;
+  padding: 8px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.fish-tile.is-active {
+  border-color: #2e4937;
+  box-shadow: 0 0 0 2px rgba(46, 73, 55, 0.2);
+}
+
+.fish-tile-media,
+.fish-detail-media {
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  border-radius: 8px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.fish-tile img,
+.fish-detail-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+.fish-tile-info {
+  display: grid;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.fish-tile-info strong {
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+.fish-tile-info span {
+  color: #5f6d64;
+  font-size: 12px;
+}
+
+.fish-detail {
+  display: grid;
+  gap: 12px;
+  position: sticky;
+  top: 24px;
+  max-height: calc(100vh - 48px);
+  overflow-y: auto;
+  align-self: start;
+  align-content: start;
+}
+
+.fish-detail-length {
+  margin: 0;
+  font-size: 16px;
+}
+
+.fish-detail-media {
+  height: clamp(180px, 24vh, 280px);
+  aspect-ratio: auto;
+  flex: 0 0 auto;
+}
+
+.fish-detail-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+.fish-cheat-block h4 {
+  margin: 0 0 8px;
+}
+
+.fish-cheat-block ul {
+  margin: 0;
+  padding-left: 20px;
+  display: grid;
+  gap: 6px;
+}
+
+.fish-tip-item {
+  display: grid;
+  gap: 6px;
+}
+
+.fish-tip-source-badge {
+  justify-self: start;
+  font-size: 11px;
+  line-height: 1;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid #c8d7c4;
+  background: #eef5eb;
+  color: #2e4937;
+  text-decoration: none;
+}
+
+.fish-tip-source-badge:hover {
+  background: #dcead8;
+}
+
+.fish-sources {
+  display: grid;
+  gap: 6px;
+}
+
+.fish-sources a {
+  color: #204f9a;
+}
+
+.fish-placeholder {
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  background: #ece7d8;
+  display: grid;
+  place-items: center;
+  color: #5f6d64;
+  font-size: 13px;
+}
+
+.fish-placeholder-large {
+  height: 100%;
+}
+
 @media (max-width: 850px) {
   .app-shell { grid-template-columns: 1fr; }
   .sidebar { position: static; }
   .grid.cols-2, .grid.cols-3, .grid.cols-4 { grid-template-columns: 1fr; }
+  .fish-gallery-layout { grid-template-columns: 1fr; }
+  .fish-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }
+  .fish-detail {
+    position: static;
+    max-height: none;
+    overflow: visible;
+  }
 }
