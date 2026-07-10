@@ -1,0 +1,21 @@
+export type CatchRecord = {
+  id: string;
+  species: string;
+  normalizedSpecies: string;
+  lengthInches: number | null;
+  weightPounds: number | null;
+  dateCaught: string | null;
+  year: number | null;
+  month: number | null;
+  day: number | null;
+  waterbody: string;
+  normalizedWaterbody: string;
+  county: string | null;
+  region: string | null;
+  angler: string | null;
+  method: string | null;
+  notes: string | null;
+  sourceFile: string;
+  importedAt: string;
+  raw: Record<string, unknown>;
+};
