@@ -1,6 +1,6 @@
 # Latest TARP Data Diff
 
-- Checked at (UTC): 2026-07-11T00:08:14+00:00
+- Checked at (UTC): 2026-07-11T11:35:05+00:00
 - Source URL: https://www.tn.gov/twra/fishing/tennessee-angler-recognition-program/_jcr_content/contentFullWidth/tn_complex_datatable.exceldriven.json
 - Previous count: 9826
 - Current count: 9826
