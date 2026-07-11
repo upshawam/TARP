@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { CatchRecord } from "../types/CatchRecord";
 import type { PlannerMode } from "../types/FishingPlan";
 import type { WaterbodyRecommendation } from "../types/FishingPlan";
@@ -10,17 +10,55 @@ import TrophyCalendar from "../components/calendar/TrophyCalendar";
 const RADIUS_OPTIONS = [25, 50, 100, 150, 200, null] as const;
 type Radius = typeof RADIUS_OPTIONS[number];
 
+const STORAGE_KEYS = {
+  latitude: "tarp.planner.originLatitude",
+  longitude: "tarp.planner.originLongitude",
+  radiusMiles: "tarp.planner.radiusMiles",
+} as const;
+
+function readStoredText(key: string): string {
+  if (typeof window === "undefined") return "";
+  return localStorage.getItem(key) ?? "";
+}
+
+function readStoredRadius(): Radius {
+  if (typeof window === "undefined") return 100;
+  const raw = localStorage.getItem(STORAGE_KEYS.radiusMiles);
+  if (!raw) return 100;
+  if (raw === "any") return null;
+  const value = Number(raw);
+  return RADIUS_OPTIONS.includes(value as Radius) ? (value as Radius) : 100;
+}
+
 type Props = { records: CatchRecord[]; species: string[] };
 
 export default function TrophyPlanner({ records, species: _species }: Props) {
   const [plannerMode, setPlannerMode]             = useState<PlannerMode>("upside");
-  const [originLatitude, setOriginLatitude]       = useState("");
-  const [originLongitude, setOriginLongitude]     = useState("");
+  const [originLatitude, setOriginLatitude]       = useState(() => readStoredText(STORAGE_KEYS.latitude));
+  const [originLongitude, setOriginLongitude]     = useState(() => readStoredText(STORAGE_KEYS.longitude));
   const [locationStatus, setLocationStatus]       = useState<string | null>(null);
-  const [radiusMiles, setRadiusMiles]             = useState<Radius>(100);
+  const [radiusMiles, setRadiusMiles]             = useState<Radius>(() => readStoredRadius());
   const [expandedWaterbody, setExpandedWaterbody] = useState<string | null>(null);
   const [selectedDate, setSelectedDate]           = useState<Date>(() => new Date());
   const [showCalendar, setShowCalendar]           = useState(false);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (originLatitude.trim()) localStorage.setItem(STORAGE_KEYS.latitude, originLatitude);
+    else localStorage.removeItem(STORAGE_KEYS.latitude);
+  }, [originLatitude]);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (originLongitude.trim()) localStorage.setItem(STORAGE_KEYS.longitude, originLongitude);
+    else localStorage.removeItem(STORAGE_KEYS.longitude);
+  }, [originLongitude]);
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (radiusMiles === null) localStorage.setItem(STORAGE_KEYS.radiusMiles, "any");
+    else localStorage.setItem(STORAGE_KEYS.radiusMiles, String(radiusMiles));
+  }, [radiusMiles]);
 
   const heatMap = useMemo(() => buildYearlyHeatMap(records), [records]);
 
