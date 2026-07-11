@@ -2,7 +2,6 @@ import { useEffect, useMemo, useState } from "react";
 import { Fish } from "lucide-react";
 import type { CatchRecord } from "./types/CatchRecord";
 import { loadTarpCsv } from "./lib/importers/loadTarpCsv";
-import { parseTarpCsv } from "./lib/importers/parseCsv";
 import { getAnglerList, getSpeciesList, getWaterbodyList } from "./lib/analysis/analysis";
 import Dashboard from "./pages/Dashboard";
 import SpeciesExplorer from "./pages/SpeciesExplorer";
@@ -10,10 +9,9 @@ import WaterbodyExplorer from "./pages/WaterbodyExplorer";
 import TrophyPlanner from "./pages/TrophyPlanner";
 import EarlyTargets from "./pages/EarlyTargets";
 import AnglerExplorer from "./pages/AnglerExplorer";
-import ImportData from "./pages/ImportData";
 import FishGallery from "./pages/FishGallery";
 
-type Page = "dashboard" | "species" | "waterbody" | "planner" | "earlyTargets" | "anglers" | "fishGallery" | "import";
+type Page = "dashboard" | "species" | "waterbody" | "planner" | "earlyTargets" | "anglers" | "fishGallery";
 
 const navItems: { key: Page; label: string }[] = [
   { key: "dashboard", label: "Dashboard" },
@@ -22,8 +20,7 @@ const navItems: { key: Page; label: string }[] = [
   { key: "planner", label: "Trophy Planner" },
   { key: "earlyTargets", label: "Early Targets" },
   { key: "anglers", label: "Angler Explorer" },
-  { key: "fishGallery", label: "Fish Gallery" },
-  { key: "import", label: "Import" }
+  { key: "fishGallery", label: "Fish Gallery" }
 ];
 
 export default function App() {
@@ -47,14 +44,6 @@ export default function App() {
   const species = useMemo(() => getSpeciesList(records), [records]);
   const waterbodies = useMemo(() => getWaterbodyList(records), [records]);
   const anglers = useMemo(() => getAnglerList(records), [records]);
-
-  function handleCsvText(csvText: string, fileName: string) {
-    const result = parseTarpCsv(csvText, fileName);
-    setRecords(result.records);
-    setWarnings(result.warnings);
-    setLoadError(null);
-    setPage("dashboard");
-  }
 
   return (
     <div className="app-shell">
@@ -91,7 +80,7 @@ export default function App() {
         {isLoading && <div className="notice">Loading `public/data/tarp.csv`...</div>}
         {loadError && (
           <div className="warning">
-            {loadError} You can still use the Import page to upload your CSV manually.
+            {loadError}
           </div>
         )}
         {warnings.map((warning) => <div className="warning" key={warning}>{warning}</div>)}
@@ -103,7 +92,6 @@ export default function App() {
         {page === "earlyTargets" && <EarlyTargets records={records} />}
         {page === "anglers" && <AnglerExplorer records={records} anglers={anglers} waterbodies={waterbodies} />}
         {page === "fishGallery" && <FishGallery records={records} />}
-        {page === "import" && <ImportData onCsvLoaded={handleCsvText} />}
       </main>
     </div>
   );
